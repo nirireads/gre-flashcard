@@ -9,9 +9,9 @@ body {
 }
 
 .app-container {
-  text-align: center;
-  padding: 2rem;
-  height: 100vh;
+  /* text-align: center; */
+  /* padding: 2rem; */
+  /* height: 100vh; */
   background-color: #01579b;
 }
 
@@ -58,7 +58,7 @@ body {
 .load-more-btn {
   display: inline-block;
   margin-top: 2rem;
-  padding: 0.8rem 1.5rem;
+  padding: 0.4rem 1rem;
   font-size: 1rem;
   background-color: #039be5;
   color: #fff;
