@@ -5,14 +5,12 @@ body {
   font-family: "Poppins", Arial, sans-serif;
   margin: 0;
   padding: 0;
-  overflow: hidden;
+  box-sizing: border-box;
 }
 
 .app-container {
-  /* text-align: center; */
-  /* padding: 2rem; */
-  /* height: 100vh; */
   background-color: #01579b;
+  overflow: hidden;
 }
 
 .flashcard {
