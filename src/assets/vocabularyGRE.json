@@ -1,0 +1,3003 @@
+[
+    {
+      "word": "Abate",
+      "meaning": "To lessen or diminish in severity or amount.",
+      "sentence": "The storm finally began to abate after hours of heavy rain.",
+      "formation": "From Old French 'abattre' meaning 'to beat down' or 'to strike down', derived from Latin 'battuere' meaning 'to strike'."
+    },
+    {
+      "word": "Aberrant",
+      "meaning": "Deviating from the normal or correct course.",
+      "sentence": "His aberrant behavior made him stand out in the group.",
+      "formation": "From Latin 'aberrantem', the present participle of 'aberrāre' meaning 'to wander away'. 'Ab' means 'away' and 'errare' means 'to wander'."
+    },
+    {
+      "word": "Abeyance",
+      "meaning": "A state of temporary inactivity or suspension.",
+      "sentence": "The project was held in abeyance until further notice.",
+      "formation": "From Old French 'abeance', from 'abeyer' meaning 'to gape' or 'to yawn'. The word 'abeyance' originally referred to a 'state of waiting'."
+    },
+    {
+      "word": "Abscond",
+      "meaning": "To leave hurriedly and secretly, typically to avoid detection or arrest.",
+      "sentence": "The thief absconded with the stolen jewels before the police arrived.",
+      "formation": "From Latin 'abscondere', meaning 'to hide away', from 'ab' meaning 'away' and 'condere' meaning 'to hide'."
+    },
+    {
+      "word": "Abstain",
+      "meaning": "To deliberately avoid or refrain from doing something.",
+      "sentence": "She decided to abstain from eating sweets during the week.",
+      "formation": "From Latin 'abstiner', from 'ab' meaning 'away' and 'tenere' meaning 'to hold'."
+    },
+    {
+      "word": "Accolade",
+      "meaning": "An award or privilege granted as a special honor or as an acknowledgment of merit.",
+      "sentence": "The scientist received many accolades for his groundbreaking research.",
+      "formation": "From Old French 'accoler', meaning 'to embrace', from Latin 'accolere', from 'ad' meaning 'to' and 'collum' meaning 'neck'."
+    },
+    {
+      "word": "Acerbic",
+      "meaning": "Sharp, biting, or harsh in tone or taste.",
+      "sentence": "His acerbic comments left everyone in the room uncomfortable.",
+      "formation": "From Latin 'acerbus', meaning 'harsh' or 'bitter'. The word is related to 'acer', meaning 'sharp'."
+    },
+    {
+      "word": "Acumen",
+      "meaning": "The ability to make quick and accurate judgments or decisions.",
+      "sentence": "Her business acumen allowed her to become a successful entrepreneur.",
+      "formation": "From Latin 'acumen', meaning 'a point, or sharpness', derived from 'acuere', meaning 'to sharpen'."
+    },
+    {
+      "word": "Admonish",
+      "meaning": "To warn or reprimand someone firmly.",
+      "sentence": "The teacher admonished the students for being late to class.",
+      "formation": "From Latin 'admonere', meaning 'to advise, to remind', from 'ad' meaning 'to' and 'monere' meaning 'to warn'."
+    },
+    {
+      "word": "Aesthetic",
+      "meaning": "Concerned with beauty or the appreciation of beauty.",
+      "sentence": "The aesthetic appeal of the painting drew a large crowd at the gallery.",
+      "formation": "From Greek 'aisthētikos', meaning 'perceptible to the senses', from 'aisthanesthai', meaning 'to perceive'."
+    },
+    {
+      "word": "Banal",
+      "meaning": "So lacking in originality as to be obvious and boring.",
+      "sentence": "The movie's plot was banal, offering nothing new or exciting.",
+      "formation": "From French 'banal', from Old French 'ban' meaning 'public', from the feudal law meaning 'something common to all'."
+    },
+    {
+      "word": "Belie",
+      "meaning": "To give a false impression of; to contradict.",
+      "sentence": "His cheerful smile belied the sadness he was feeling inside.",
+      "formation": "From Old English 'bielgan', meaning 'to deceive' or 'to be angry'."
+    },
+    {
+      "word": "Belligerent",
+      "meaning": "Hostile and aggressive.",
+      "sentence": "The belligerent tone of his voice made everyone uneasy.",
+      "formation": "From Latin 'belligerare', meaning 'to wage war', from 'bellum' meaning 'war' and 'gerere' meaning 'to carry'."
+    },
+    {
+      "word": "Bemused",
+      "meaning": "Confused or bewildered.",
+      "sentence": "She was left bemused by the complicated instructions.",
+      "formation": "From Latin 'bēmus', meaning 'to confuse'."
+    },
+    {
+      "word": "Benign",
+      "meaning": "Harmless; kind and gentle.",
+      "sentence": "The tumor was benign and required no further treatment.",
+      "formation": "From Latin 'benignus', meaning 'kindly' or 'gentle'."
+    },
+    {
+      "word": "Bolster",
+      "meaning": "To support or strengthen.",
+      "sentence": "The new evidence helped bolster their case in court.",
+      "formation": "From Old English 'bolster', meaning 'a cushion' or 'support'."
+    },
+    {
+      "word": "Bombastic",
+      "meaning": "Pompous or extravagant in language or style.",
+      "sentence": "His bombastic speech failed to impress the audience.",
+      "formation": "From 'bombast', meaning 'cotton padding' or 'inflated language'."
+    },
+    {
+      "word": "Boorish",
+      "meaning": "Rude, insensitive, or uncivilized.",
+      "sentence": "His boorish behavior at the party upset many of the guests.",
+      "formation": "From Middle Dutch 'boer', meaning 'peasant' or 'countryman', reflecting a rough, uncultured character."
+    },
+    {
+      "word": "Bucolic",
+      "meaning": "Relating to the pleasant aspects of the countryside and country life.",
+      "sentence": "The bucolic scenery made it a perfect spot for a picnic.",
+      "formation": "From Greek 'boukōlikos', meaning 'pertaining to herdsmen', from 'bous' meaning 'ox'."
+    },
+    {
+      "word": "Burgeon",
+      "meaning": "To grow or develop rapidly.",
+      "sentence": "The company continued to burgeon into new markets.",
+      "formation": "From Old French 'bourgeonner', meaning 'to bud', derived from 'bourgeon' meaning 'bud' in French."
+    },
+    {
+      "word": "Cacophony",
+      "meaning": "A harsh, discordant mixture of sounds.",
+      "sentence": "The cacophony of the city traffic kept me awake all night.",
+      "formation": "From Greek 'kakophonia', from 'kakos' meaning 'bad' and 'phone' meaning 'voice or sound'."
+    },
+    {
+      "word": "Candid",
+      "meaning": "Truthful and straightforward; frank.",
+      "sentence": "Her candid response made everyone aware of the true situation.",
+      "formation": "From Latin 'candidus', meaning 'white', 'bright', or 'clear', reflecting honesty."
+    },
+    {
+      "word": "Capricious",
+      "meaning": "Given to sudden and unaccountable changes in mood or behavior.",
+      "sentence": "The capricious weather made it difficult to plan outdoor activities.",
+      "formation": "From Italian 'capriccio', meaning 'whim', from 'capo' meaning 'head' and 'riccio' meaning 'hedgehog', reflecting sudden changes."
+    },
+    {
+      "word": "Castigate",
+      "meaning": "To reprimand someone severely.",
+      "sentence": "The teacher castigated the student for cheating on the exam.",
+      "formation": "From Latin 'castigare', meaning 'to chastise' or 'to correct'."
+    },
+    {
+      "word": "Catalyst",
+      "meaning": "A substance that increases the rate of a chemical reaction, or an agent that causes change.",
+      "sentence": "The new manager acted as a catalyst for change in the company.",
+      "formation": "From Greek 'katalysis', meaning 'dissolution', from 'kata' meaning 'down' and 'lyein' meaning 'to loosen'."
+    },
+    {
+      "word": "Caustic",
+      "meaning": "Able to burn or corrode by chemical action; sarcastic in a scathing way.",
+      "sentence": "The caustic comments hurt his feelings deeply.",
+      "formation": "From Greek 'kaustikos', meaning 'combustible', from 'kaiein' meaning 'to burn'."
+    },
+    {
+      "word": "Chicanery",
+      "meaning": "The use of trickery to achieve a political, financial, or legal purpose.",
+      "sentence": "The lawyer used chicanery to win the case.",
+      "formation": "From French 'chicaner', meaning 'to quibble or bicker', related to deceitful behavior."
+    },
+    {
+      "word": "Clement",
+      "meaning": "Mild or merciful in disposition or character.",
+      "sentence": "The clement weather made for a pleasant afternoon at the park.",
+      "formation": "From Latin 'clemens', meaning 'gentle' or 'mild'."
+    },
+    {
+      "word": "Clairvoyant",
+      "meaning": "A person who claims to have the ability to see events in the future or beyond normal perception.",
+      "sentence": "The clairvoyant predicted that I would soon meet a life-changing opportunity.",
+      "formation": "From French 'clair' meaning 'clear' and 'voyant' meaning 'seeing', from Latin 'videre' meaning 'to see'."
+    },
+    {
+      "word": "Cliché",
+      "meaning": "A phrase or opinion that is overused and lacks originality.",
+      "sentence": "His speech was full of clichés, making it sound insincere.",
+      "formation": "From French 'cliché', meaning 'a printing plate' or 'stereotype', originally referring to something that is reproduced in the same way."
+    },
+    {
+      "word": "Cloying",
+      "meaning": "Too rich or sweet to the point of being unpleasant.",
+      "sentence": "The cloying smell of perfume made me feel nauseous.",
+      "formation": "From French 'cloyer', meaning 'to clog' or 'to fill up', often used in reference to overly sweet things."
+    },
+    {
+      "word": "Coerce",
+      "meaning": "To force someone into doing something against their will.",
+      "sentence": "The police tried to coerce him into confessing to the crime.",
+      "formation": "From Latin 'coercere', meaning 'to control or restrain', from 'com' meaning 'together' and 'arcere' meaning 'to enclose'."
+    },
+    {
+      "word": "Cogent",
+      "meaning": "Clear, logical, and convincing.",
+      "sentence": "His cogent argument won over the jury.",
+      "formation": "From Latin 'cogere', meaning 'to compel or to drive together', from 'com' meaning 'together' and 'agere' meaning 'to drive'."
+    },
+    {
+      "word": "Collaborate",
+      "meaning": "To work together with others on a project or task.",
+      "sentence": "The two companies decided to collaborate on the new product line.",
+      "formation": "From Latin 'collaborare', meaning 'to work together', from 'com' meaning 'together' and 'laborare' meaning 'to work'."
+    },
+    {
+      "word": "Complacent",
+      "meaning": "Self-satisfied and unaware of possible dangers or deficiencies.",
+      "sentence": "He became complacent after winning the first few rounds.",
+      "formation": "From Latin 'complacere', meaning 'to please greatly', from 'com' meaning 'with' and 'placere' meaning 'to please'."
+    },
+    {
+      "word": "Concise",
+      "meaning": "Giving much information in few words.",
+      "sentence": "Her concise presentation saved a lot of time.",
+      "formation": "From Latin 'concisus', meaning 'cut off' or 'brief', from 'con' meaning 'together' and 'caedere' meaning 'to cut'."
+    },
+    {
+      "word": "Condone",
+      "meaning": "To accept or allow behavior that is morally wrong or offensive.",
+      "sentence": "The teacher could not condone cheating in the classroom.",
+      "formation": "From Latin 'condonare', meaning 'to forgive or to grant', from 'com' meaning 'with' and 'donare' meaning 'to give'."
+    },
+    {
+      "word": "Confound",
+      "meaning": "To confuse or bewilder, often in a perplexing way.",
+      "sentence": "The complex puzzle confounded even the most experienced players.",
+      "formation": "From Latin 'confundere', meaning 'to pour together'."
+    },
+    {
+      "word": "Conundrum",
+      "meaning": "A confusing or difficult problem or question.",
+      "sentence": "The detective faced a real conundrum as the evidence seemed to contradict itself.",
+      "formation": "Originating in the 16th century as a playful term, possibly from 'coney' (rabbit) or a whimsical blend of words."
+    },
+    {
+      "word": "Copious",
+      "meaning": "Abundant in quantity or number.",
+      "sentence": "She took copious notes during the lecture to ensure she didn't miss anything.",
+      "formation": "From Latin 'copiosus', meaning 'abundant'."
+    },
+    {
+      "word": "Corroborate",
+      "meaning": "To confirm or give support to a statement, theory, or finding.",
+      "sentence": "The witness's testimony corroborated the defendant's alibi.",
+      "formation": "From Latin 'corroborare', meaning 'to strengthen', from 'com-' meaning 'together' and 'roborare' meaning 'to make strong'."
+    },
+    {
+      "word": "Cursory",
+      "meaning": "Hasty and not thorough or detailed.",
+      "sentence": "He gave the report a cursory glance before the meeting.",
+      "formation": "From Latin 'cursus', meaning 'a running', from 'currere' meaning 'to run'."
+    },
+    {
+      "word": "Daunt",
+      "meaning": "To make someone feel intimidated or discouraged.",
+      "sentence": "The enormous task did not daunt the determined scientist.",
+      "formation": "From Old French 'danter', meaning 'to frighten', from Latin 'domitare' meaning 'to tame'."
+    },
+    {
+      "word": "Debunk",
+      "meaning": "To expose the falseness or hollowness of a myth, idea, or belief.",
+      "sentence": "The article aimed to debunk the common misconceptions about climate change.",
+      "formation": "From 'de-' meaning 'down' and 'bunk', an abbreviation of 'bunkum', meaning 'nonsense'."
+    },
+    {
+      "word": "Decorous",
+      "meaning": "In keeping with good taste and propriety; polite and restrained.",
+      "sentence": "Her decorous behavior at the dinner party impressed everyone.",
+      "formation": "From Latin 'decorus', meaning 'appropriate, fitting', from 'decus' meaning 'honor, beauty'."
+    },
+    {
+      "word": "Defenestrate",
+      "meaning": "To throw someone or something out of a window.",
+      "sentence": "In a fit of rage, he defenestrated the broken radio.",
+      "formation": "From Latin 'fenestra', meaning 'window', and 'de-' meaning 'down' or 'away'."
+    },
+    {
+      "word": "Deft",
+      "meaning": "Skillful and quick in movement or action.",
+      "sentence": "The pianist's deft fingers moved across the keys with ease.",
+      "formation": "From Middle English 'deft', meaning 'skilled' or 'apt', from Old English 'deop', meaning 'quick'."
+    },
+    {
+      "word": "Defunct",
+      "meaning": "No longer in existence or functioning.",
+      "sentence": "The company went defunct after a series of poor financial decisions.",
+      "formation": "From Latin 'defunctus', meaning 'having finished, deceased', from 'de-' meaning 'away' and 'fungi' meaning 'to perform'."
+    },
+    {
+      "word": "Deliberate",
+      "meaning": "Done consciously and intentionally; careful and unhurried.",
+      "sentence": "The decision was made after deliberate thought and discussion.",
+      "formation": "From Latin 'deliberare', meaning 'to weigh well', from 'de-' meaning 'entirely' and 'libra' meaning 'balance'."
+    },
+    {
+      "word": "Delineate",
+      "meaning": "To describe or portray something in detail.",
+      "sentence": "The map clearly delineates the boundaries of the park.",
+      "formation": "From Latin 'delineare', meaning 'to outline', from 'de-' meaning 'completely' and 'lineare' meaning 'to line'."
+    },
+    {
+      "word": "Demur",
+      "meaning": "To raise objections or show reluctance.",
+      "sentence": "She demurred when asked to take on the additional responsibility.",
+      "formation": "From Latin 'demorari', meaning 'to delay', from 'de-' meaning 'away' and 'morari' meaning 'to delay'."
+    },
+    {
+      "word": "Denounce",
+      "meaning": "To publicly declare something to be wrong or evil.",
+      "sentence": "The politician denounced corruption during the campaign speech.",
+      "formation": "From Latin 'denuntiare', meaning 'to announce or declare', from 'de-' meaning 'down' and 'nuntiare' meaning 'to announce'."
+    },
+    {
+      "word": "Deprecate",
+      "meaning": "To express disapproval of.",
+      "sentence": "The teacher deprecated the students' rude behavior in class.",
+      "formation": "From Latin 'deprecari', meaning 'to pray for, to ward off', from 'de-' meaning 'away' and 'precari' meaning 'to pray'."
+    },
+    {
+      "word": "Deride",
+      "meaning": "To mock or ridicule.",
+      "sentence": "His classmates derided his new outfit.",
+      "formation": "From Latin 'deridere', meaning 'to mock', from 'de-' meaning 'away' and 'ridere' meaning 'to laugh'."
+    },
+    {
+      "word": "Desiccate",
+      "meaning": "To remove moisture from something to preserve it.",
+      "sentence": "The fruits were desiccated to extend their shelf life.",
+      "formation": "From Latin 'desiccare', meaning 'to dry out', from 'de-' meaning 'thoroughly' and 'siccare' meaning 'to dry'."
+    },
+    {
+      "word": "Desultory",
+      "meaning": "Lacking a plan, purpose, or enthusiasm.",
+      "sentence": "His desultory approach to the project resulted in a disorganized presentation.",
+      "formation": "From Latin 'desultorius', meaning 'jumping from one thing to another', from 'desultor' meaning 'a jumper', from 'de-' meaning 'down' and 'saltare' meaning 'to leap'."
+    },
+    {
+      "word": "Detrimental",
+      "meaning": "Causing harm or damage.",
+      "sentence": "Smoking is detrimental to your health.",
+      "formation": "From Latin 'detrimentum', meaning 'loss or harm', from 'de-' meaning 'down' and 'terere' meaning 'to rub'."
+    },
+    {
+      "word": "Diaphanous",
+      "meaning": "Light, delicate, and translucent.",
+      "sentence": "The diaphanous curtains let the sunlight filter softly into the room.",
+      "formation": "From Greek 'diaphanēs', meaning 'transparent', from 'dia-' meaning 'through' and 'phanēs' meaning 'appearing'."
+    },
+    {
+      "word": "Didactic",
+      "meaning": "Intended to teach, particularly in a moralistic or instructional way.",
+      "sentence": "The professor's didactic style often felt more like a lecture than a discussion.",
+      "formation": "From Greek 'didaktikos', meaning 'apt at teaching', from 'didaskein' meaning 'to teach'."
+    },
+    {
+      "word": "Dilatory",
+      "meaning": "Intended to delay or procrastinate.",
+      "sentence": "His dilatory tactics caused the meeting to run late.",
+      "formation": "From Latin 'dilatorius', meaning 'tending to delay', from 'dilator' meaning 'one who delays', from 'differre' meaning 'to defer'."
+    },
+    {
+      "word": "Diminutive",
+      "meaning": "Extremely small or tiny.",
+      "sentence": "The diminutive puppy fit comfortably in her hand.",
+      "formation": "From Latin 'diminutivus', meaning 'that which diminishes', from 'diminut-', meaning 'reduced', from 'minuere' meaning 'to lessen'."
+    },
+    {
+      "word": "Disabuse",
+      "meaning": "To free someone from a misconception or false belief.",
+      "sentence": "She disabused him of the idea that money could buy happiness.",
+      "formation": "From Latin 'dis-' meaning 'away' and 'abusus' meaning 'use', hence to rid of a false use or belief."
+    },
+    {
+      "word": "Disconcert",
+      "meaning": "To unsettle or disturb the composure of someone.",
+      "sentence": "The unexpected question from the audience disconcerted the speaker.",
+      "formation": "From French 'déconcerter', from 'dé-' meaning 'away' and 'concerter' meaning 'to bring together'."
+    },
+    {
+      "word": "Disdain",
+      "meaning": "The feeling that someone or something is unworthy of one's consideration or respect.",
+      "sentence": "He looked at the messy room with disdain.",
+      "formation": "From Latin 'disdignari', meaning 'to regard as unworthy', from 'dis-' meaning 'apart' and 'dignari' meaning 'to deem worthy'."
+    },
+    {
+      "word": "Disparate",
+      "meaning": "Essentially different in kind; not allowing comparison.",
+      "sentence": "The two political candidates had disparate views on economic policy.",
+      "formation": "From Latin 'disparatus', meaning 'separated or different', from 'dis-' meaning 'apart' and 'parare' meaning 'to prepare'."
+    },
+    {
+      "word": "Dissemble",
+      "meaning": "To conceal one's true motives, feelings, or beliefs.",
+      "sentence": "He tried to dissemble his true feelings during the meeting.",
+      "formation": "From Latin 'dissembler', meaning 'to disguise or conceal', from 'dis-' meaning 'apart' and 'simulare' meaning 'to simulate'."
+    },
+    {
+      "word": "Dissipate",
+      "meaning": "To disperse or scatter, often in a wasteful manner.",
+      "sentence": "The smoke from the fire quickly dissipated into the air.",
+      "formation": "From Latin 'dissipare', meaning 'to scatter', from 'dis-' meaning 'apart' and 'supare' meaning 'to throw'."
+    },
+    {
+      "word": "Dissonance",
+      "meaning": "Lack of harmony or agreement, often producing a harsh sound.",
+      "sentence": "The dissonance between their views led to a heated argument.",
+      "formation": "From Latin 'dissonantia', meaning 'discord', from 'dis-' meaning 'apart' and 'sonare' meaning 'to sound'."
+    },
+    {
+      "word": "Distend",
+      "meaning": "To expand or stretch out, especially due to pressure.",
+      "sentence": "The balloon began to distend as air was pumped into it.",
+      "formation": "From Latin 'distendere', meaning 'to stretch apart', from 'dis-' meaning 'apart' and 'tendere' meaning 'to stretch'."
+    },
+    {
+      "word": "Docile",
+      "meaning": "Ready to accept control or instruction; submissive.",
+      "sentence": "The docile dog followed its owner's commands without hesitation.",
+      "formation": "From Latin 'docilis', meaning 'easily taught', from 'docere' meaning 'to teach'."
+    },
+    {
+      "word": "Dogged",
+      "meaning": "Persistent and determined, often in the face of difficulty.",
+      "sentence": "Her dogged determination helped her finish the project on time.",
+      "formation": "From Middle English 'dogged', meaning 'resembling a dog in persistence'."
+    },
+    {
+      "word": "Dogmatic",
+      "meaning": "Inclined to lay down principles as incontrovertibly true.",
+      "sentence": "He was so dogmatic in his beliefs that he refused to listen to any alternative views.",
+      "formation": "From Greek 'dogmatikos', meaning 'opinionated', from 'dogma' meaning 'opinion or belief'."
+    },
+    {
+      "word": "Ebullient",
+      "meaning": "Overflowing with enthusiasm or excitement.",
+      "sentence": "The ebullient crowd cheered loudly as the band took the stage.",
+      "formation": "From Latin 'ebullientem', meaning 'boiling up', from 'e-' meaning 'out' and 'bullire' meaning 'to boil'."
+    },
+    {
+      "word": "Eclectic",
+      "meaning": "Deriving ideas, style, or taste from a broad and diverse range of sources.",
+      "sentence": "Her eclectic music collection included everything from classical to jazz.",
+      "formation": "From Greek 'eklektikos', meaning 'selective', from 'eklegein' meaning 'to select'."
+    },
+    {
+      "word": "Edify",
+      "meaning": "To instruct or improve someone morally or intellectually.",
+      "sentence": "The teacher aimed to edify the students with each lesson.",
+      "formation": "From Latin 'aedificare', meaning 'to build', from 'aedificium' meaning 'building'."
+    },
+    {
+      "word": "Effervescent",
+      "meaning": "Bubbling, lively, or enthusiastic.",
+      "sentence": "Her effervescent personality made her the life of the party.",
+      "formation": "From Latin 'effervescere', meaning 'to boil up', from 'ex-' meaning 'out' and 'fervescere' meaning 'to boil'."
+    },
+    {
+      "word": "Effrontery",
+      "meaning": "Insolent or shameless boldness.",
+      "sentence": "His effrontery in demanding a raise after only a month on the job was surprising.",
+      "formation": "From French 'effronterie', from 'effronté' meaning 'shameless', from Latin 'effrontatus', from 'ex-' meaning 'out' and 'frons' meaning 'forehead'."
+    },
+    {
+      "word": "Efficacy",
+      "meaning": "The ability to produce a desired or intended result.",
+      "sentence": "The efficacy of the new drug was proven through clinical trials.",
+      "formation": "From Latin 'efficacia', meaning 'effectiveness', from 'efficere' meaning 'to bring about'."
+    },
+    {
+      "word": "Effuse",
+      "meaning": "To pour out or flow forth.",
+      "sentence": "The teacher effused praise on the students for their excellent work.",
+      "formation": "From Latin 'effundere', meaning 'to pour out', from 'ex-' meaning 'out' and 'fundere' meaning 'to pour'."
+    },
+    {
+      "word": "Egoism",
+      "meaning": "The belief in self-interest as the foundation of moral behavior.",
+      "sentence": "His egoism made him unpopular among his colleagues.",
+      "formation": "From Latin 'ego' meaning 'I' and '-ism' indicating a belief or practice."
+    },
+    {
+      "word": "Enervate",
+      "meaning": "To drain of energy or vitality; weaken.",
+      "sentence": "The long hike in the heat enervated us completely.",
+      "formation": "From Latin 'enervare', meaning 'to weaken', from 'e-' meaning 'out' and 'nervus' meaning 'nerve'."
+    },
+    {
+      "word": "Enigmatic",
+      "meaning": "Mysterious, puzzling, or difficult to understand.",
+      "sentence": "Her enigmatic smile left everyone wondering what she was thinking.",
+      "formation": "From Greek 'ainigma', meaning 'riddle', with the suffix '-tic' forming an adjective."
+    },
+    {
+      "word": "Ephemeral",
+      "meaning": "Lasting for a very short time.",
+      "sentence": "The beauty of the sunset was ephemeral, disappearing as quickly as it appeared.",
+      "formation": "From Greek 'ephemeros', meaning 'lasting only one day', from 'epi-' meaning 'upon' and 'hemera' meaning 'day'."
+    },
+    {
+      "word": "Epistolary",
+      "meaning": "Relating to the writing of letters or literary works in the form of letters.",
+      "sentence": "The novel was written in an epistolary style, with letters exchanged between characters.",
+      "formation": "From Latin 'epistola', meaning 'letter', with the suffix '-ary' indicating a relation."
+    },
+    {
+      "word": "Equanimity",
+      "meaning": "Mental calmness, stability, or composure, especially in a difficult situation.",
+      "sentence": "He handled the stressful situation with remarkable equanimity.",
+      "formation": "From Latin 'aequanimitas', meaning 'even-mindedness', from 'aequus' meaning 'equal' and 'animus' meaning 'mind'."
+    },
+    {
+      "word": "Equivocate",
+      "meaning": "To use ambiguous or unclear language, usually to avoid a direct answer.",
+      "sentence": "The politician equivocated when asked about his stance on the issue.",
+      "formation": "From Latin 'aequivocare', meaning 'to call by the same name', from 'aequus' meaning 'equal' and 'vocare' meaning 'to call'."
+    },
+    {
+      "word": "Esoteric",
+      "meaning": "Intended for or likely to be understood by only a small number of people with specialized knowledge.",
+      "sentence": "The professor's lecture on quantum physics was so esoteric that most students struggled to follow.",
+      "formation": "From Greek 'esoterikos', meaning 'inner', from 'esoteros' meaning 'more within'."
+    },
+    {
+      "word": "Exacerbate",
+      "meaning": "To make a situation or problem worse or more intense.",
+      "sentence": "His harsh words only exacerbated the tension between the two friends.",
+      "formation": "From Latin 'exacerbare', meaning 'to make harsh', from 'ex-' meaning 'out' and 'acerbus' meaning 'harsh'."
+    },
+    {
+      "word": "Exculpate",
+      "meaning": "To clear someone of blame or guilt.",
+      "sentence": "The evidence presented in court helped exculpate the defendant.",
+      "formation": "From Latin 'exculpare', meaning 'to clear from blame', from 'ex-' meaning 'out' and 'culpa' meaning 'blame'."
+    },
+    {
+      "word": "Exemplary",
+      "meaning": "Serving as a desirable model; representing the best of its kind.",
+      "sentence": "Her exemplary performance earned her a promotion at work.",
+      "formation": "From Latin 'exemplum', meaning 'a sample or model', with the suffix '-ary' indicating a relation."
+    },
+    {
+      "word": "Exonerate",
+      "meaning": "To absolve someone from blame or responsibility.",
+      "sentence": "The DNA evidence exonerated the man after years of wrongful imprisonment.",
+      "formation": "From Latin 'exonerare', meaning 'to unburden', from 'ex-' meaning 'out' and 'onus' meaning 'burden'."
+    },
+    {
+      "word": "Expedite",
+      "meaning": "To make something happen sooner or more efficiently.",
+      "sentence": "We need to expedite the processing of these documents to meet the deadline.",
+      "formation": "From Latin 'expeditus', meaning 'unimpeded', from 'ex-' meaning 'out' and 'pes' meaning 'foot'."
+    },
+    {
+      "word": "Expunge",
+      "meaning": "To erase or remove completely.",
+      "sentence": "The judge ordered the criminal record to be expunged after the defendant's rehabilitation.",
+      "formation": "From Latin 'expungere', meaning 'to wipe out', from 'ex-' meaning 'out' and 'pungere' meaning 'to prick'."
+    },
+    {
+      "word": "Extant",
+      "meaning": "Still in existence; surviving.",
+      "sentence": "The ancient manuscript is one of the few extant texts from the medieval period.",
+      "formation": "From Latin 'exstare', meaning 'to stand out', from 'ex-' meaning 'out' and 'stare' meaning 'to stand'."
+    },
+    {
+      "word": "Facetious",
+      "meaning": "Treating serious issues with deliberately inappropriate humor.",
+      "sentence": "His facetious comments at the meeting were not appreciated by his colleagues.",
+      "formation": "From Latin 'facetiae', meaning 'jest or humor', from 'facetus' meaning 'elegant or witty'."
+    },
+    {
+      "word": "Fallacious",
+      "meaning": "Based on a mistaken belief or unsound reasoning.",
+      "sentence": "His argument was fallacious and lacked evidence to support his claims.",
+      "formation": "From Latin 'fallacia', meaning 'deception', from 'fallere' meaning 'to deceive'."
+    },
+    {
+      "word": "Fatuous",
+      "meaning": "Silly and pointless.",
+      "sentence": "The fatuous remarks made by the comedian were met with groans from the audience.",
+      "formation": "From Latin 'fatuus', meaning 'foolish or silly'."
+    },
+    {
+      "word": "Feckless",
+      "meaning": "Lacking initiative or strength of character; irresponsible.",
+      "sentence": "The feckless manager failed to meet the deadlines, causing problems for the team.",
+      "formation": "From Scottish Gaelic 'feck', meaning 'effect' or 'value'."
+    },
+    {
+      "word": "Fervent",
+      "meaning": "Having or displaying a passionate intensity.",
+      "sentence": "The fervent supporters cheered loudly as the team scored the winning goal.",
+      "formation": "From Latin 'fervens', meaning 'boiling, hot', from 'fervere' meaning 'to boil'."
+    },
+    {
+      "word": "Finesse",
+      "meaning": "Skillful handling of a situation or task.",
+      "sentence": "She handled the negotiation with great finesse, securing a better deal.",
+      "formation": "From French 'finesse', meaning 'refinement or skill', from Latin 'finis' meaning 'end or boundary'."
+    },
+    {
+      "word": "Flagrant",
+      "meaning": "Shockingly noticeable or evident; glaringly bad.",
+      "sentence": "His flagrant disregard for the rules led to his suspension.",
+      "formation": "From Latin 'flagrans', meaning 'burning', from 'flagrare' meaning 'to burn'."
+    },
+    {
+      "word": "Flippant",
+      "meaning": "Not showing a serious or respectful attitude.",
+      "sentence": "His flippant remarks about the serious issue were met with disapproval.",
+      "formation": "From Latin 'flippare', meaning 'to strike or flick'."
+    },
+    {
+      "word": "Flourish",
+      "meaning": "To grow or develop in a healthy or vigorous way.",
+      "sentence": "The plants flourished in the rich, well-watered soil.",
+      "formation": "From Old French 'flourir', meaning 'to bloom', from Latin 'florere', meaning 'to flower'."
+    },
+    {
+      "word": "Forbearance",
+      "meaning": "Patient self-control; restraint and tolerance.",
+      "sentence": "His forbearance in the face of the constant criticism was admirable.",
+      "formation": "From Latin 'foris', meaning 'outside', and 'tolerare', meaning 'to bear or endure'."
+    },
+    {
+      "word": "Fortuitous",
+      "meaning": "Happening by chance, often in a fortunate way.",
+      "sentence": "Their fortuitous meeting in the café led to a lasting friendship.",
+      "formation": "From Latin 'fortuitus', meaning 'happening by chance', from 'fortuna' meaning 'luck'."
+    },
+    {
+      "word": "Fractious",
+      "meaning": "Irritable and quarrelsome.",
+      "sentence": "The fractious child refused to listen to his parents.",
+      "formation": "From Latin 'fractious', meaning 'apt to break or be disobedient', from 'frangere' meaning 'to break'."
+    },
+    {
+      "word": "Frivolous",
+      "meaning": "Not having any serious purpose or value.",
+      "sentence": "His frivolous spending on luxury items led him into debt.",
+      "formation": "From Latin 'frivolus', meaning 'silly, trifling', from 'frivolum' meaning 'a small piece'."
+    },
+    {
+      "word": "Garrulous",
+      "meaning": "Excessively talkative, especially on trivial matters.",
+      "sentence": "The garrulous man at the next table couldn't stop talking about his life story.",
+      "formation": "From Latin 'garrulus', meaning 'talkative', from 'garrire' meaning 'to chatter'."
+    },
+    {
+      "word": "Germane",
+      "meaning": "Relevant and appropriate.",
+      "sentence": "The professor’s comments were germane to the topic being discussed.",
+      "formation": "From Latin 'germanus', meaning 'related or proper', from 'germen' meaning 'bud, sprout'."
+    },
+    {
+      "word": "Gluttony",
+      "meaning": "Excessive consumption of food or drink.",
+      "sentence": "His gluttony during the feast led to a stomach ache later.",
+      "formation": "From Latin 'gluttonia', meaning 'greediness', from 'gluttire' meaning 'to swallow'."
+    },
+    {
+      "word": "Grandiloquent",
+      "meaning": "Using pompous or extravagant language.",
+      "sentence": "The politician’s grandiloquent speech failed to convince the audience.",
+      "formation": "From Latin 'grandis' meaning 'large, grand' and 'loqui' meaning 'to speak'."
+    },
+    {
+      "word": "Guile",
+      "meaning": "Sly or cunning intelligence, especially in deceiving others.",
+      "sentence": "The thief used his guile to escape from the police.",
+      "formation": "From Old French 'guile', meaning 'deception or trickery', from Latin 'vigilare' meaning 'to watch'."
+    },
+    {
+      "word": "Hackneyed",
+      "meaning": "Lacking originality, clichéd.",
+      "sentence": "The movie's plot was predictable and hackneyed.",
+      "formation": "From Old French 'hacquené', meaning 'horse', referring to a common horse used for work, thus 'overused'."
+    },
+    {
+      "word": "Hapless",
+      "meaning": "Unfortunate or unlucky.",
+      "sentence": "The hapless traveler lost his wallet just before the flight.",
+      "formation": "From Middle English 'hap' meaning 'luck' and the suffix '-less' meaning 'without'."
+    },
+    {
+      "word": "Harangue",
+      "meaning": "A lengthy and aggressive speech or lecture.",
+      "sentence": "The coach delivered a harangue to the players after their loss.",
+      "formation": "From Old French 'harangue', meaning 'public speech'."
+    },
+    {
+      "word": "Hedonism",
+      "meaning": "The pursuit of pleasure and self-gratification as the highest good.",
+      "sentence": "He was criticized for his hedonism and lack of concern for others.",
+      "formation": "From Greek 'hēdonē', meaning 'pleasure', with the suffix '-ism' denoting a belief or practice."
+    },
+    {
+      "word": "Heretic",
+      "meaning": "A person holding beliefs contrary to established religious doctrines.",
+      "sentence": "He was labeled a heretic for questioning the church’s teachings.",
+      "formation": "From Greek 'hairetikos', meaning 'able to choose', from 'hairesis' meaning 'a choice'."
+    },
+    {
+      "word": "Iconoclast",
+      "meaning": "A person who attacks or criticizes cherished beliefs or institutions.",
+      "sentence": "The iconoclast questioned the traditional practices of his community.",
+      "formation": "From Greek 'eikon' meaning 'image' and 'klan' meaning 'to break'."
+    },
+    {
+      "word": "Idiosyncratic",
+      "meaning": "Peculiar or individualistic in nature.",
+      "sentence": "Her idiosyncratic style of dressing made her stand out in the crowd.",
+      "formation": "From Greek 'idiosynkrasia', meaning 'a mixture of one's own', from 'idios' meaning 'own' and 'synkrasis' meaning 'mixture'."
+    },
+    {
+      "word": "Ignoble",
+      "meaning": "Not honorable in character or purpose.",
+      "sentence": "The ignoble actions of the politician caused a scandal.",
+      "formation": "From Latin 'ignobilis', meaning 'of low birth', from 'in-' meaning 'not' and 'nobilis' meaning 'noble'."
+    },
+    {
+      "word": "Immaculate",
+      "meaning": "Perfectly clean, neat, or free from flaws.",
+      "sentence": "Her immaculate appearance impressed everyone at the party.",
+      "formation": "From Latin 'immaculatus', meaning 'without stain', from 'in-' meaning 'not' and 'maculatus' meaning 'stained'."
+    },
+    {
+      "word": "Imminent",
+      "meaning": "About to happen; impending.",
+      "sentence": "The storm’s arrival was imminent, and everyone rushed to take shelter.",
+      "formation": "From Latin 'imminere', meaning 'to hang over', from 'in-' meaning 'upon' and 'minere' meaning 'to project'."
+    },
+    {
+      "word": "Impecunious",
+      "meaning": "Having little or no money.",
+      "sentence": "The impecunious student struggled to pay for his textbooks.",
+      "formation": "From Latin 'im-' meaning 'not' and 'pecunia' meaning 'money'."
+    },
+    {
+      "word": "Imperious",
+      "meaning": "Arrogantly domineering; overbearing.",
+      "sentence": "His imperious attitude made him unpopular with his subordinates.",
+      "formation": "From Latin 'imperiosus', meaning 'commanding', from 'imperium' meaning 'command'."
+    },
+    {
+      "word": "Impetuous",
+      "meaning": "Acting or done quickly without thought or care.",
+      "sentence": "Her impetuous decision to quit her job shocked everyone.",
+      "formation": "From Latin 'impetuosus', meaning 'violent, hasty', from 'impetus' meaning 'attack'."
+    },
+    {
+      "word": "Implacable",
+      "meaning": "Unable to be calmed or pacified.",
+      "sentence": "The implacable enemy refused to negotiate a peace treaty.",
+      "formation": "From Latin 'implacabilis', meaning 'unappeasable', from 'im-' meaning 'not' and 'placabilis' meaning 'able to be appeased'."
+    },
+    {
+      "word": "Implicit",
+      "meaning": "Implied or understood without being directly expressed.",
+      "sentence": "Her implicit trust in her friend was evident even without words.",
+      "formation": "From Latin 'implicitus', meaning 'entangled, involved', from 'implicare' meaning 'to entangle'."
+    },
+    {
+      "word": "Inane",
+      "meaning": "Silly or lacking meaning.",
+      "sentence": "The movie's inane plot failed to engage the audience.",
+      "formation": "From Latin 'inanis', meaning 'empty, shallow'."
+    },
+    {
+      "word": "Incongruous",
+      "meaning": "Not in harmony or keeping with the surroundings or other aspects of something.",
+      "sentence": "His incongruous behavior at the formal event caused a stir.",
+      "formation": "From Latin 'in-' meaning 'not' and 'congruere' meaning 'to agree or fit'."
+    },
+    {
+      "word": "Inculpate",
+      "meaning": "To accuse or blame someone for a crime or wrongdoing.",
+      "sentence": "The evidence was strong enough to inculpate him in the robbery.",
+      "formation": "From Latin 'inculpatus', meaning 'to blame', from 'in-' meaning 'into' and 'culpare' meaning 'to blame'."
+    },
+    {
+      "word": "Indefatigable",
+      "meaning": "Tireless; incapable of being fatigued.",
+      "sentence": "Her indefatigable work ethic made her the perfect leader.",
+      "formation": "From Latin 'indefatigabilis', meaning 'incapable of being tired', from 'in-' meaning 'not' and 'defatigabilis' meaning 'able to tire'."
+    },
+    {
+      "word": "Indolent",
+      "meaning": "Wanting to avoid activity or work; lazy.",
+      "sentence": "His indolent attitude toward his responsibilities frustrated his colleagues.",
+      "formation": "From Latin 'indolentem', meaning 'without pain', from 'in-' meaning 'without' and 'dolor' meaning 'pain'."
+    },
+    {
+      "word": "Ineffable",
+      "meaning": "Too great or extreme to be expressed in words.",
+      "sentence": "The beauty of the sunset was ineffable, leaving us speechless.",
+      "formation": "From Latin 'ineffabilis', meaning 'unspeakable', from 'in-' meaning 'not' and 'effabilis' meaning 'able to be spoken'."
+    },
+    {
+      "word": "Inexorable",
+      "meaning": "Impossible to stop or prevent.",
+      "sentence": "The inexorable march of time waits for no one.",
+      "formation": "From Latin 'inexorabilis', meaning 'unavoidable', from 'in-' meaning 'not' and 'exorabilis' meaning 'able to be moved'."
+    },
+    {
+      "word": "Ingenuous",
+      "meaning": "Free from reserve; sincere, innocent, or naive.",
+      "sentence": "Her ingenuous smile made everyone feel at ease.",
+      "formation": "From Latin 'ingenuus', meaning 'honorable, native, freeborn'."
+    },
+    {
+      "word": "Inimical",
+      "meaning": "Hostile or unfriendly.",
+      "sentence": "Their inimical relationship made collaboration difficult.",
+      "formation": "From Latin 'inimicus', meaning 'hostile', from 'in-' meaning 'not' and 'amicus' meaning 'friend'."
+    },
+    {
+      "word": "Innocuous",
+      "meaning": "Harmless or not likely to cause injury or harm.",
+      "sentence": "The comment was innocuous and didn’t offend anyone.",
+      "formation": "From Latin 'innocuus', meaning 'harmless', from 'in-' meaning 'not' and 'nocuus' meaning 'harmful'."
+    },
+    {
+      "word": "Insipid",
+      "meaning": "Lacking flavor or interest; dull.",
+      "sentence": "The soup was insipid, lacking the spices that would have made it flavorful.",
+      "formation": "From Latin 'insipidus', meaning 'tasteless', from 'in-' meaning 'not' and 'sapidus' meaning 'tasty'."
+    },
+    {
+      "word": "Intrepid",
+      "meaning": "Fearless; adventurous.",
+      "sentence": "The intrepid explorer ventured into the unknown jungle.",
+      "formation": "From Latin 'intrepidus', meaning 'unafraid', from 'in-' meaning 'not' and 'trepidus' meaning 'fearful'."
+    },
+    {
+      "word": "Inveigh",
+      "meaning": "To speak or write about something with great hostility or anger.",
+      "sentence": "He inveighed against the injustices in society during his speech.",
+      "formation": "From Latin 'invehere', meaning 'to carry in', metaphorically meaning to attack or complain against."
+    },
+    {
+      "word": "Inveterate",
+      "meaning": "Having a particular habit or interest that is long established and unlikely to change.",
+      "sentence": "He was an inveterate smoker, unable to quit despite repeated attempts.",
+      "formation": "From Latin 'inveteratus', meaning 'old, long established', from 'in-' meaning 'in' and 'veteratus' meaning 'old'."
+    },
+    {
+      "word": "Irascible",
+      "meaning": "Easily angered or irritable.",
+      "sentence": "His irascible nature made it difficult for him to maintain relationships.",
+      "formation": "From Latin 'irasci', meaning 'to become angry', from 'ira' meaning 'anger'."
+    },
+    {
+      "word": "Irresolute",
+      "meaning": "Uncertain or indecisive.",
+      "sentence": "Her irresolute attitude towards her career choices made it hard for her to make progress.",
+      "formation": "From Latin 'ir-' meaning 'not' and 'resolutus' meaning 'resolved'."
+    },
+    {
+      "word": "Jocular",
+      "meaning": "Fond of or characterized by joking; humorous or playful.",
+      "sentence": "His jocular demeanor always lightened the mood in the office.",
+      "formation": "From Latin 'jocularis', meaning 'pertaining to jest', from 'jocus' meaning 'joke'."
+    },
+    {
+      "word": "Juxtapose",
+      "meaning": "To place two things next to each other for comparison or contrast.",
+      "sentence": "The artist juxtaposed dark and light colors to create a striking visual effect.",
+      "formation": "From Latin 'juxta' meaning 'next to' and 'ponere' meaning 'to place'."
+    },
+    {
+      "word": "Keen",
+      "meaning": "Sharp or intense in perception or feeling; eager.",
+      "sentence": "She had a keen sense of humor that made everyone laugh.",
+      "formation": "From Old English 'cene', meaning 'brave, bold, sharp'."
+    },
+    {
+      "word": "Languid",
+      "meaning": "Weak or faint, especially from illness or fatigue.",
+      "sentence": "After the long hike, he felt too languid to continue exploring.",
+      "formation": "From Latin 'languidus', meaning 'faint, weary', from 'languere' meaning 'to be weak'."
+    },
+    {
+      "word": "Largesse",
+      "meaning": "Generosity in bestowing gifts or money.",
+      "sentence": "The philanthropist's largesse helped fund the new hospital wing.",
+      "formation": "From Old French 'largesse', meaning 'generosity', from 'larguer' meaning 'to enlarge'."
+    },
+    {
+      "word": "Lethargic",
+      "meaning": "Sluggish and lacking energy.",
+      "sentence": "She felt lethargic after staying up late studying for the exam.",
+      "formation": "From Greek 'lēthargos', meaning 'forgetful, sluggish', from 'lēthē' meaning 'forgetfulness'."
+    },
+    {
+      "word": "Levity",
+      "meaning": "Lightness of mind, character, or behavior; lack of seriousness.",
+      "sentence": "His levity during the meeting made it difficult to discuss important matters.",
+      "formation": "From Latin 'levitas', meaning 'lightness', from 'levis' meaning 'light'."
+    },
+    {
+      "word": "Loquacious",
+      "meaning": "Talkative; very chatty.",
+      "sentence": "The loquacious guide gave an entertaining and informative tour.",
+      "formation": "From Latin 'loquax', meaning 'talkative', from 'loqui' meaning 'to speak'."
+    },
+    {
+      "word": "Lucid",
+      "meaning": "Clear and easy to understand.",
+      "sentence": "His explanation of the complex topic was lucid and straightforward.",
+      "formation": "From Latin 'lucidus', meaning 'clear, bright', from 'lux' meaning 'light'."
+    },
+    {
+      "word": "Lugubrious",
+      "meaning": "Looking or sounding sad and dismal.",
+      "sentence": "His lugubrious expression made it clear that something was wrong.",
+      "formation": "From Latin 'lugubris', meaning 'mournful, sorrowful'."
+    },
+    {
+      "word": "Maladroit",
+      "meaning": "Inefficient or clumsy in behavior or action.",
+      "sentence": "His maladroit handling of the situation made things worse.",
+      "formation": "From French 'maladroit', meaning 'clumsy', from 'mal' meaning 'bad' and 'adroit' meaning 'skillful'."
+    },
+    {
+      "word": "Malevolent",
+      "meaning": "Having or showing a desire to harm others.",
+      "sentence": "The malevolent look in his eyes sent shivers down her spine.",
+      "formation": "From Latin 'malevolentem', meaning 'wishing evil', from 'male' meaning 'badly' and 'velle' meaning 'to wish'."
+    },
+    {
+      "word": "Malleable",
+      "meaning": "Able to be shaped or formed, especially by pressure.",
+      "sentence": "The metal is highly malleable and can be shaped into any form.",
+      "formation": "From Latin 'malleabilis', meaning 'able to be hammered', from 'malleus' meaning 'hammer'."
+    },
+    {
+      "word": "Maverick",
+      "meaning": "An independent-minded person who does not follow the group.",
+      "sentence": "She was a maverick in the business world, never afraid to challenge the status quo.",
+      "formation": "From the name of Samuel Maverick, a 19th-century Texas rancher who did not brand his cattle."
+    },
+    {
+      "word": "Melancholy",
+      "meaning": "A deep, persistent sadness or sorrow.",
+      "sentence": "There was a feeling of melancholy in the room after the bad news.",
+      "formation": "From Greek 'melancholia', meaning 'black bile', from 'melas' meaning 'black' and 'khole' meaning 'bile'."
+    },
+    {
+      "word": "Meticulous",
+      "meaning": "Showing great attention to detail; very careful and precise.",
+      "sentence": "Her meticulous planning ensured that every detail was accounted for.",
+      "formation": "From Latin 'meticulosus', meaning 'fearful', from 'metus' meaning 'fear'."
+    },
+    {
+      "word": "Misanthrope",
+      "meaning": "A person who dislikes or avoids human beings.",
+      "sentence": "The misanthrope spent most of his time alone in his study.",
+      "formation": "From Greek 'misos' meaning 'hatred' and 'anthropos' meaning 'man'."
+    },
+    {
+      "word": "Mitigate",
+      "meaning": "To make something less severe, serious, or painful.",
+      "sentence": "The doctor prescribed medication to mitigate the pain.",
+      "formation": "From Latin 'mitigare', meaning 'to soften, to mellow'."
+    },
+    {
+      "word": "Morose",
+      "meaning": "Sullen, gloomy, or ill-tempered.",
+      "sentence": "His morose demeanor made everyone around him feel uncomfortable.",
+      "formation": "From Latin 'morosus', meaning 'peevish, ill-tempered'."
+    },
+    {
+      "word": "Munificent",
+      "meaning": "Very generous.",
+      "sentence": "The munificent donation helped fund the new library.",
+      "formation": "From Latin 'munificus', meaning 'generous', from 'munus' meaning 'gift'."
+    },
+    {
+      "word": "Nefarious",
+      "meaning": "Wicked, villainous, or criminal.",
+      "sentence": "The villain's nefarious plans were foiled by the hero.",
+      "formation": "From Latin 'nefarious', meaning 'wicked', from 'nefas' meaning 'wrong, crime'."
+    },
+    {
+      "word": "Neophyte",
+      "meaning": "A person who is new to a subject or activity.",
+      "sentence": "As a neophyte in the world of finance, he had much to learn.",
+      "formation": "From Greek 'neophytos', meaning 'newly planted', from 'neo' meaning 'new' and 'phyton' meaning 'plant'."
+    },
+    {
+      "word": "Noxious",
+      "meaning": "Harmful, poisonous, or very unpleasant.",
+      "sentence": "The fumes from the factory were noxious and caused many health problems.",
+      "formation": "From Latin 'noxius', meaning 'harmful', from 'nox' meaning 'harm'."
+    },
+    {
+      "word": "Obfuscate",
+      "meaning": "To deliberately make something unclear or difficult to understand.",
+      "sentence": "The politician's speech seemed designed to obfuscate the real issues.",
+      "formation": "From Latin 'obfuscare', meaning 'to darken', from 'ob' meaning 'over' and 'fuscus' meaning 'dark'."
+    },
+    {
+      "word": "Oblivion",
+      "meaning": "The state of being unaware or unconscious of what is happening.",
+      "sentence": "The town was forgotten, falling into oblivion after the war.",
+      "formation": "From Latin 'oblivio', meaning 'forgetfulness', from 'ob-' meaning 'over' and 'livere' meaning 'to forget'."
+    },
+    {
+      "word": "Obsequious",
+      "meaning": "Excessively eager to please or obey.",
+      "sentence": "His obsequious behavior made him unpopular with his colleagues.",
+      "formation": "From Latin 'obsequiosus', meaning 'compliant, obedient', from 'obsequium' meaning 'compliance'."
+    },
+    {
+      "word": "Odious",
+      "meaning": "Extremely unpleasant; repulsive.",
+      "sentence": "The odious behavior of the criminal shocked everyone in the courtroom.",
+      "formation": "From Latin 'odiosus', meaning 'hateful', from 'odium' meaning 'hatred'."
+    },
+    {
+      "word": "Officious",
+      "meaning": "Excessively eager to offer services or advice, often in an annoying manner.",
+      "sentence": "Her officious attitude made everyone feel uncomfortable during the meeting.",
+      "formation": "From Latin 'officiosus', meaning 'dutiful', from 'officium' meaning 'duty'."
+    },
+    {
+      "word": "Ominous",
+      "meaning": "Giving the impression that something bad or unpleasant is going to happen.",
+      "sentence": "The ominous clouds signaled a storm was approaching.",
+      "formation": "From Latin 'ominous', meaning 'foreboding', from 'omen' meaning 'sign'."
+    },
+    {
+      "word": "Opaque",
+      "meaning": "Not transparent; not allowing light to pass through.",
+      "sentence": "The glass was so opaque that we couldn’t see through it.",
+      "formation": "From Latin 'opacus', meaning 'shady, dark'."
+    },
+    {
+      "word": "Opulent",
+      "meaning": "Rich, luxurious, or lavish.",
+      "sentence": "The opulent palace had golden chandeliers and marble floors.",
+      "formation": "From Latin 'opulentus', meaning 'wealthy', from 'opulentia' meaning 'wealth'."
+    },
+    {
+      "word": "Oscillate",
+      "meaning": "To move or swing back and forth in a regular rhythm.",
+      "sentence": "The fan oscillated, cooling the room evenly.",
+      "formation": "From Latin 'oscillare', meaning 'to swing'."
+    },
+    {
+      "word": "Ostensible",
+      "meaning": "Appearing to be true, but not necessarily so.",
+      "sentence": "The ostensible reason for the meeting was to discuss the budget, but the real agenda was different.",
+      "formation": "From Latin 'ostendere', meaning 'to show'."
+    },
+    {
+      "word": "Ostentatious",
+      "meaning": "Characterized by vulgar or pretentious display; designed to impress.",
+      "sentence": "The ostentatious display of wealth at the party was off-putting.",
+      "formation": "From Latin 'ostentare', meaning 'to display'."
+    },
+    {
+      "word": "Palliate",
+      "meaning": "To alleviate or lessen the severity of something.",
+      "sentence": "The medicine helped palliate the symptoms of the disease.",
+      "formation": "From Latin 'palliare', meaning 'to cloak, to cover'."
+    },
+    {
+      "word": "Panacea",
+      "meaning": "A universal remedy for all problems or ills.",
+      "sentence": "Many believe that education is a panacea for social inequality.",
+      "formation": "From Greek 'panakeia', meaning 'universal remedy', from 'pan' meaning 'all' and 'akos' meaning 'remedy'."
+    },
+    {
+      "word": "Paucity",
+      "meaning": "The presence of something in insufficient quantities; scarcity.",
+      "sentence": "The paucity of resources made it difficult to continue the project.",
+      "formation": "From Latin 'paucitas', meaning 'fewness', from 'pauci' meaning 'few'."
+    },
+    {
+      "word": "Pedantic",
+      "meaning": "Excessively concerned with minor details or rules.",
+      "sentence": "His pedantic approach to teaching made the class feel tedious.",
+      "formation": "From French 'pedant', meaning 'teacher' or 'schoolmaster', from Italian 'pedante' meaning 'teacher'."
+    },
+    {
+      "word": "Perfunctory",
+      "meaning": "Done routinely and with little interest or care.",
+      "sentence": "She gave a perfunctory nod before moving on to the next task.",
+      "formation": "From Latin 'perfunctorius', meaning 'carried out to completion'."
+    },
+    {
+      "word": "Pernicious",
+      "meaning": "Having a harmful effect, especially in a gradual or subtle way.",
+      "sentence": "The pernicious influence of social media can affect self-esteem.",
+      "formation": "From Latin 'perniciosus', meaning 'destructive', from 'pernicies' meaning 'ruin'."
+    },
+    {
+      "word": "Perspicacious",
+      "meaning": "Having a ready insight into and understanding of things.",
+      "sentence": "Her perspicacious mind allowed her to solve complex problems quickly.",
+      "formation": "From Latin 'perspicax', meaning 'sharp-sighted', from 'per' meaning 'through' and 'specere' meaning 'to look'."
+    },
+    {
+      "word": "Phlegmatic",
+      "meaning": "Calm and unemotional.",
+      "sentence": "He remained phlegmatic even under intense pressure.",
+      "formation": "From Greek 'phlegmatikos', meaning 'cold, moist', referring to one of the four bodily humors."
+    },
+    {
+      "word": "Pithy",
+      "meaning": "Concise and forcefully expressive.",
+      "sentence": "Her pithy response left no room for further discussion.",
+      "formation": "From Middle English 'pith', meaning 'the essence or core of something'."
+    },
+    {
+      "word": "Placate",
+      "meaning": "To make someone less angry or hostile.",
+      "sentence": "He tried to placate the upset customer with a gift card.",
+      "formation": "From Latin 'placare', meaning 'to calm'."
+    },
+    {
+      "word": "Placid",
+      "meaning": "Calm and peaceful.",
+      "sentence": "The placid lake reflected the surrounding mountains perfectly.",
+      "formation": "From Latin 'placidus', meaning 'calm'."
+    },
+    {
+      "word": "Platitude",
+      "meaning": "A remark or statement that has been used too often and is no longer meaningful.",
+      "sentence": "His speech was full of empty platitudes and lacked substance.",
+      "formation": "From French 'platitude', meaning 'flatness' or 'dullness', from 'plat' meaning 'flat'."
+    },
+    {
+      "word": "Poignant",
+      "meaning": "Evoking a strong feeling of sadness or regret.",
+      "sentence": "The movie's poignant ending brought tears to my eyes.",
+      "formation": "From French 'poignant', meaning 'piercing', from Latin 'pungere' meaning 'to sting'."
+    },
+    {
+      "word": "Polymath",
+      "meaning": "A person with wide-ranging knowledge or learning.",
+      "sentence": "Leonardo da Vinci was a polymath, excelling in art, science, and engineering.",
+      "formation": "From Greek 'polymathes', meaning 'having learned much', from 'poly' meaning 'many' and 'mathē' meaning 'learning'."
+    },
+    {
+      "word": "Pragmatic",
+      "meaning": "Dealing with things in a practical and realistic way.",
+      "sentence": "His pragmatic approach helped the team finish the project on time.",
+      "formation": "From Greek 'pragmatikos', meaning 'relating to action or practice'."
+    },
+    {
+      "word": "Precarious",
+      "meaning": "Not securely held or in position; dangerously likely to fall or collapse.",
+      "sentence": "The precarious situation could lead to disaster if not handled carefully.",
+      "formation": "From Latin 'precarius', meaning 'obtained by prayer or begging', from 'prex' meaning 'prayer'."
+    },
+    {
+      "word": "Preclude",
+      "meaning": "To prevent from happening; to make impossible.",
+      "sentence": "Her illness precluded her from attending the party.",
+      "formation": "From Latin 'praecludere', meaning 'to shut up', from 'prae' meaning 'before' and 'claudere' meaning 'to close'."
+    },
+    {
+      "word": "Proclivity",
+      "meaning": "A tendency or inclination towards something.",
+      "sentence": "He had a proclivity for risk-taking in business.",
+      "formation": "From Latin 'proclivitas', meaning 'inclination', from 'proclivis' meaning 'inclined'."
+    },
+    {
+      "word": "Prodigal",
+      "meaning": "Recklessly extravagant or wasteful in spending.",
+      "sentence": "The prodigal son squandered his inheritance on luxurious living.",
+      "formation": "From Latin 'prodigus', meaning 'wasteful'."
+    },
+    {
+      "word": "Prolific",
+      "meaning": "Producing many works, results, or offspring.",
+      "sentence": "She is a prolific writer, publishing several novels each year.",
+      "formation": "From Latin 'prolificus', meaning 'fruitful', from 'proles' meaning 'offspring' and 'facere' meaning 'to make'."
+    },
+    {
+      "word": "Propitious",
+      "meaning": "Favorable or likely to lead to success.",
+      "sentence": "The weather was propitious for the outdoor wedding.",
+      "formation": "From Latin 'propitius', meaning 'favorable', from 'pro' meaning 'for' and 'petere' meaning 'to seek'."
+    },
+    {
+      "word": "Prosaic",
+      "meaning": "Dull, unimaginative, or lacking in originality.",
+      "sentence": "His prosaic writing style failed to capture the reader’s attention.",
+      "formation": "From Latin 'prosa', meaning 'straightforward speech', from 'prosus' meaning 'direct'."
+    },
+    {
+      "word": "Protean",
+      "meaning": "Able to change or adapt frequently or easily.",
+      "sentence": "The protean actor could play any role with ease.",
+      "formation": "From Greek 'proteios', meaning 'of Proteus', a sea god who could change shape."
+    },
+    {
+      "word": "Prudent",
+      "meaning": "Acting with or showing care and thought for the future.",
+      "sentence": "It is prudent to save money for unexpected emergencies.",
+      "formation": "From Latin 'prudentia', meaning 'foresight', from 'prudens' meaning 'wise'."
+    },
+    {
+      "word": "Puerile",
+      "meaning": "Childish or immature.",
+      "sentence": "His puerile behavior at the meeting embarrassed his colleagues.",
+      "formation": "From Latin 'puerilis', meaning 'of a boy, childish', from 'puer' meaning 'boy'."
+    },
+    {
+      "word": "Pugnacious",
+      "meaning": "Eager or quick to argue or fight.",
+      "sentence": "His pugnacious nature made it difficult to have a calm conversation with him.",
+      "formation": "From Latin 'pugnare', meaning 'to fight'."
+    },
+    {
+      "word": "Pulchritude",
+      "meaning": "Physical beauty.",
+      "sentence": "The pulchritude of the landscape took my breath away.",
+      "formation": "From Latin 'pulchritudo', meaning 'beauty'."
+    },
+    {
+      "word": "Querulous",
+      "meaning": "Complaining in a petulant or whining manner.",
+      "sentence": "The querulous tone of his voice made everyone uncomfortable.",
+      "formation": "From Latin 'queri', meaning 'to complain'."
+    },
+    {
+      "word": "Quiescent",
+      "meaning": "In a state of inactivity or dormancy.",
+      "sentence": "The volcano remained quiescent for decades before erupting.",
+      "formation": "From Latin 'quiescere', meaning 'to rest'."
+    },
+    {
+      "word": "Rancor",
+      "meaning": "Bitterness or resentfulness, especially long-standing.",
+      "sentence": "She felt a deep rancor towards him for betraying her trust.",
+      "formation": "From Latin 'rancere', meaning 'to stink'."
+    },
+    {
+      "word": "Recalcitrant",
+      "meaning": "Stubbornly resistant to authority or control.",
+      "sentence": "The recalcitrant student refused to follow the teacher’s instructions.",
+      "formation": "From Latin 'recalcitrare', meaning 'to kick back'."
+    },
+    {
+      "word": "Recant",
+      "meaning": "To withdraw or retract a statement or belief.",
+      "sentence": "After much thought, he decided to recant his earlier statement.",
+      "formation": "From Latin 'recantare', meaning 'to revoke'."
+    },
+    {
+      "word": "Recondite",
+      "meaning": "Little known or obscure; difficult to understand.",
+      "sentence": "His recondite theories were only understood by a select few scholars.",
+      "formation": "From Latin 'reconditus', meaning 'hidden'."
+    },
+    {
+      "word": "Redolent",
+      "meaning": "Having a strong smell or fragrance; suggestive or reminiscent of something.",
+      "sentence": "The room was redolent with the scent of freshly baked cookies.",
+      "formation": "From Latin 'redolere', meaning 'to emit a scent'."
+    },
+    {
+      "word": "Refractory",
+      "meaning": "Stubborn or unmanageable; resistant to treatment or control.",
+      "sentence": "The refractory patient refused to follow the doctor's instructions.",
+      "formation": "From Latin 'refractarius', meaning 'stubborn'."
+    },
+    {
+      "word": "Reproach",
+      "meaning": "To express disapproval or disappointment.",
+      "sentence": "He reproached his colleague for missing the meeting.",
+      "formation": "From Latin 'reprobare', meaning 'to disapprove'."
+    },
+    {
+      "word": "Repudiate",
+      "meaning": "To reject or deny the validity of something.",
+      "sentence": "He repudiated the allegations of wrongdoing.",
+      "formation": "From Latin 'repudiare', meaning 'to reject'."
+    },
+    {
+      "word": "Rescind",
+      "meaning": "To revoke or cancel a decision, law, or agreement.",
+      "sentence": "The company decided to rescind the contract after reviewing the terms.",
+      "formation": "From Latin 'rescindere', meaning 'to cut off'."
+    },
+    {
+      "word": "Reticent",
+      "meaning": "Not revealing one's thoughts or feelings readily.",
+      "sentence": "She was reticent about her personal life, preferring to keep things private.",
+      "formation": "From Latin 'reticentem', meaning 'silent'."
+    },
+    {
+      "word": "Rudimentary",
+      "meaning": "Basic or simple, involving limited skill or knowledge.",
+      "sentence": "The rudimentary skills needed for the job could be learned quickly.",
+      "formation": "From Latin 'rudimentum', meaning 'a beginning'."
+    },
+    {
+      "word": "Sagacious",
+      "meaning": "Having or showing keen perception and sound judgment.",
+      "sentence": "His sagacious advice helped steer the project to success.",
+      "formation": "From Latin 'sagax', meaning 'wise'."
+    },
+    {
+      "word": "Salient",
+      "meaning": "Most noticeable or important.",
+      "sentence": "The salient points of the argument were clearly outlined in the report.",
+      "formation": "From Latin 'salientem', meaning 'leaping'."
+    },
+    {
+      "word": "Satiate",
+      "meaning": "To satisfy to the full.",
+      "sentence": "The large meal completely satiated their hunger.",
+      "formation": "From Latin 'satiare', meaning 'to fill'."
+    },
+    {
+      "word": "Savant",
+      "meaning": "A learned scholar or expert in a particular field.",
+      "sentence": "The scientist was regarded as a savant in the field of physics.",
+      "formation": "From French 'savant', meaning 'learned'."
+    },
+    {
+      "word": "Scintillating",
+      "meaning": "Sparkling or shining brightly; brilliantly lively.",
+      "sentence": "Her scintillating personality made her the life of the party.",
+      "formation": "From Latin 'scintillare', meaning 'to sparkle'."
+    },
+    {
+      "word": "Serendipity",
+      "meaning": "The occurrence of events by chance in a happy or beneficial way.",
+      "sentence": "Finding the perfect book in the library was pure serendipity.",
+      "formation": "Coined in 1754 by Horace Walpole, inspired by the Persian fairy tale 'The Three Princes of Serendip'."
+    },
+    {
+      "word": "Shrewd",
+      "meaning": "Having sharp judgment or insight.",
+      "sentence": "Her shrewd business decisions earned her respect in the industry.",
+      "formation": "From Old English 'scearu', meaning 'sharp'."
+    },
+    {
+      "word": "Skeptical",
+      "meaning": "Doubting or not easily convinced.",
+      "sentence": "He was skeptical about the idea of investing in the new startup.",
+      "formation": "From Greek 'skeptikos', meaning 'inquisitive'."
+    },
+    {
+      "word": "Soporific",
+      "meaning": "Inducing sleepiness or drowsiness.",
+      "sentence": "The soporific effect of the lecture caused many students to nod off.",
+      "formation": "From Latin 'sopor', meaning 'sleep'."
+    },
+    {
+      "word": "Specious",
+      "meaning": "Superficially plausible but actually wrong.",
+      "sentence": "His argument appeared convincing, but it was specious upon further inspection.",
+      "formation": "From Latin 'speciosus', meaning 'beautiful'."
+    },
+    {
+      "word": "Sporadic",
+      "meaning": "Occurring irregularly or infrequently.",
+      "sentence": "The sporadic rain showers caught everyone by surprise.",
+      "formation": "From Greek 'sporadikos', meaning 'scattered'."
+    },
+    {
+      "word": "Spurious",
+      "meaning": "Not being what it purports to be; false or counterfeit.",
+      "sentence": "The spurious claim of a cure for the disease was quickly debunked.",
+      "formation": "From Latin 'spurius', meaning 'illegitimate'."
+    },
+    {
+      "word": "Stalwart",
+      "meaning": "Loyal, reliable, and hardworking.",
+      "sentence": "She remained a stalwart supporter of the cause, despite the challenges.",
+      "formation": "From Old French 'estalwart', meaning 'strong'."
+    },
+    {
+      "word": "Stentorian",
+      "meaning": "Loud and powerful in sound.",
+      "sentence": "His stentorian voice filled the room, making everyone turn to listen.",
+      "formation": "From Greek 'Stentor', a herald in Greek mythology known for his loud voice."
+    },
+    {
+      "word": "Strident",
+      "meaning": "Loud and harsh, often in a way that is unpleasant.",
+      "sentence": "The strident sound of the alarm made it impossible to concentrate.",
+      "formation": "From Latin 'stridere', meaning 'to creak'."
+    },
+    {
+      "word": "Stymie",
+      "meaning": "To prevent or hinder progress.",
+      "sentence": "The ongoing technical issues stymied their efforts to launch the website.",
+      "formation": "Origin uncertain, possibly from the Scots 'stymie', meaning 'obstacle'."
+    },
+    {
+      "word": "Sublime",
+      "meaning": "Of such excellence or beauty as to inspire great admiration or awe.",
+      "sentence": "The view from the mountaintop was sublime, leaving everyone speechless.",
+      "formation": "From Latin 'sublimis', meaning 'high, elevated'."
+    },
+    {
+      "word": "Succinct",
+      "meaning": "Briefly and clearly expressed.",
+      "sentence": "Her succinct summary of the situation made it easy to understand.",
+      "formation": "From Latin 'succinctus', meaning 'girded or dressed', from 'succingere', meaning 'to gird'."
+    },
+    {
+      "word": "Supercilious",
+      "meaning": "Behaving or looking as though one thinks one is superior to others.",
+      "sentence": "His supercilious attitude made him unpopular among his peers.",
+      "formation": "From Latin 'superciliosus', meaning 'haughty', from 'supercilium' meaning 'eyebrow'."
+    },
+    {
+      "word": "Sycophant",
+      "meaning": "A person who acts obsequiously toward someone important in order to gain advantage.",
+      "sentence": "The office sycophant always agreed with the boss, no matter what.",
+      "formation": "From Greek 'sykophantes', meaning 'informer, accuser'."
+    },
+    {
+      "word": "Tantamount",
+      "meaning": "Equivalent in seriousness or effect.",
+      "sentence": "His silence was tantamount to an admission of guilt.",
+      "formation": "From French 'tant amont', meaning 'so much up', from 'tant' meaning 'so much'."
+    },
+    {
+      "word": "Tepid",
+      "meaning": "Only slightly warm; showing little enthusiasm.",
+      "sentence": "The tepid response to his idea suggested it lacked appeal.",
+      "formation": "From Latin 'tepidus', meaning 'lukewarm'."
+    },
+    {
+      "word": "Timorous",
+      "meaning": "Showing or suffering from nervousness, fear, or a lack of confidence.",
+      "sentence": "The timorous child hesitated to speak in front of the class.",
+      "formation": "From Latin 'timorosus', meaning 'fearful'."
+    },
+    {
+      "word": "Torpid",
+      "meaning": "Mentally or physically inactive; lethargic.",
+      "sentence": "The torpid weather made everyone want to stay in bed all day.",
+      "formation": "From Latin 'torpere', meaning 'to be numb'."
+    },
+    {
+      "word": "Trenchant",
+      "meaning": "Sharp or incisive in expression or style.",
+      "sentence": "His trenchant critique of the movie left no room for ambiguity.",
+      "formation": "From Latin 'truncare', meaning 'to cut off'."
+    },
+    {
+      "word": "Ubiquitous",
+      "meaning": "Present, appearing, or found everywhere.",
+      "sentence": "Smartphones are ubiquitous in modern society.",
+      "formation": "From Latin 'ubiquitas', meaning 'everywhere'."
+    },
+    {
+      "word": "Usurp",
+      "meaning": "To take (a position of power or importance) illegally or by force.",
+      "sentence": "He attempted to usurp the throne from his brother.",
+      "formation": "From Latin 'usurpare', meaning 'to seize for use'."
+    },
+    {
+      "word": "Vapid",
+      "meaning": "Lacking liveliness, interest, or flavor.",
+      "sentence": "The conversation was so vapid that I quickly lost interest.",
+      "formation": "From Latin 'vapidum', meaning 'flat'."
+    },
+    {
+      "word": "Vehement",
+      "meaning": "Showing strong feeling; forceful or passionate.",
+      "sentence": "She gave a vehement defense of her beliefs.",
+      "formation": "From Latin 'vehemens', meaning 'impetuous'."
+    },
+    {
+      "word": "Veracity",
+      "meaning": "Conformity to facts; accuracy or truthfulness.",
+      "sentence": "The veracity of his statement was questioned during the investigation.",
+      "formation": "From Latin 'veracitas', meaning 'truthfulness'."
+    },
+    {
+      "word": "Verbose",
+      "meaning": "Using more words than are needed.",
+      "sentence": "His verbose explanation made the concept harder to understand.",
+      "formation": "From Latin 'verbosus', meaning 'wordy'."
+    },
+    {
+      "word": "Vex",
+      "meaning": "To make someone feel annoyed, frustrated, or worried.",
+      "sentence": "His constant questions began to vex me.",
+      "formation": "From Latin 'vexare', meaning 'to shake'."
+    },
+    {
+      "word": "Vicarious",
+      "meaning": "Experienced in the imagination through the feelings or actions of another person.",
+      "sentence": "She felt vicarious joy when her friend won the race.",
+      "formation": "From Latin 'vicarius', meaning 'substitute'."
+    },
+    {
+      "word": "Vindicate",
+      "meaning": "To clear someone of blame or suspicion.",
+      "sentence": "The new evidence helped vindicate the wrongly accused man.",
+      "formation": "From Latin 'vindicare', meaning 'to claim'."
+    },
+    {
+      "word": "Voracious",
+      "meaning": "Having a strong desire for something, especially food or knowledge.",
+      "sentence": "She has a voracious appetite for books and reads at least one novel a week.",
+      "formation": "From Latin 'vorare', meaning 'to devour'."
+    },
+    {
+      "word": "Wheedle",
+      "meaning": "To influence or persuade someone through flattery or deceit.",
+      "sentence": "He tried to wheedle a promotion from his boss by complimenting her every chance he got.",
+      "formation": "Possibly from the Middle English 'wheddelen', meaning 'to wheedle'."
+    },
+    {
+      "word": "Whimsical",
+      "meaning": "Playfully quaint or fanciful, especially in an appealing or amusing way.",
+      "sentence": "The whimsical design of the cafe, with its colorful chairs and unusual decor, was a big hit.",
+      "formation": "From the word 'whim', meaning 'a sudden desire or change of mind'."
+    },
+    {
+      "word": "Zealous",
+      "meaning": "Having or showing great energy or enthusiasm in pursuit of a cause or objective.",
+      "sentence": "He is a zealous supporter of environmental conservation, always volunteering for projects.",
+      "formation": "From Greek 'zelos', meaning 'zeal' or 'ardor'."
+    },
+    {
+      "word": "Abhor",
+      "meaning": "To regard with disgust and hatred.",
+      "sentence": "She abhors cruelty in all its forms and works tirelessly for animal rights.",
+      "formation": "From Latin 'abhorrere', meaning 'to shrink from'."
+    },
+    {
+      "word": "Abridge",
+      "meaning": "To shorten a written text without losing the sense.",
+      "sentence": "The novel was abridged for the film adaptation to fit the time constraints.",
+      "formation": "From Latin 'abbreviare', meaning 'to shorten'."
+    },
+    {
+      "word": "Accost",
+      "meaning": "To approach and speak to someone, often in a bold or aggressive manner.",
+      "sentence": "He was accosted by a stranger asking for money as he walked down the street.",
+      "formation": "From French 'accoster', meaning 'to approach'."
+    },
+    {
+      "word": "Adulate",
+      "meaning": "To praise someone excessively or obsequiously.",
+      "sentence": "The actress was uncomfortable with the way the press adulated her every move.",
+      "formation": "From Latin 'adulatus', meaning 'flattering'."
+    },
+    {
+      "word": "Alleviate",
+      "meaning": "To make a situation or feeling less severe.",
+      "sentence": "The medicine helped alleviate the pain in her joints.",
+      "formation": "From Latin 'alleviare', meaning 'to lighten'."
+    },
+    {
+      "word": "Allude",
+      "meaning": "To refer to something indirectly or subtly.",
+      "sentence": "The speaker alluded to his upcoming project without giving any specifics.",
+      "formation": "From Latin 'alludere', meaning 'to play with, refer to'."
+    },
+    {
+      "word": "Amiable",
+      "meaning": "Friendly and pleasant.",
+      "sentence": "She was an amiable host, making everyone feel welcome at the party.",
+      "formation": "From Latin 'amicabilis', meaning 'friendly'."
+    },
+    {
+      "word": "Anomaly",
+      "meaning": "Something that deviates from what is standard, normal, or expected.",
+      "sentence": "The sudden drop in temperature in June was an anomaly in the region's weather patterns.",
+      "formation": "From Greek 'anomalos', meaning 'uneven, irregular'."
+    },
+    {
+      "word": "Antagonize",
+      "meaning": "To cause someone to become hostile or unfriendly.",
+      "sentence": "He was careful not to antagonize his coworkers during the meeting.",
+      "formation": "From Greek 'antagonizein', meaning 'to fight against'."
+    },
+    {
+      "word": "Apocryphal",
+      "meaning": "Of doubtful authenticity, although widely circulated as being true.",
+      "sentence": "The story of the ghost in the old mansion is apocryphal and has no solid evidence to back it up.",
+      "formation": "From Greek 'apokryphos', meaning 'hidden, secret'."
+    },
+    {
+      "word": "Apostate",
+      "meaning": "A person who renounces a religious or political belief or principle.",
+      "sentence": "The apostate spoke out against the principles he once held dear.",
+      "formation": "From Greek 'apostasia', meaning 'defection'."
+    },
+    {
+      "word": "Assuage",
+      "meaning": "To make an unpleasant feeling less intense.",
+      "sentence": "The kind words from his friend helped assuage his feelings of guilt.",
+      "formation": "From Latin 'assuavare', meaning 'to sweeten'."
+    },
+    {
+      "word": "Augment",
+      "meaning": "To make something greater by adding to it.",
+      "sentence": "The company decided to augment its staff to handle the increased demand.",
+      "formation": "From Latin 'augmentare', meaning 'to increase'."
+    },
+    {
+      "word": "Auspicious",
+      "meaning": "Conducive to success; favorable.",
+      "sentence": "The wedding day was auspicious, with clear skies and a gentle breeze.",
+      "formation": "From Latin 'auspicius', meaning 'of or from an augur'."
+    },
+    {
+      "word": "Bane",
+      "meaning": "A cause of great distress or annoyance.",
+      "sentence": "The lack of affordable housing is the bane of many young professionals in the city.",
+      "formation": "From Old English 'bana', meaning 'murderer or killer'."
+    },
+    {
+      "word": "Beget",
+      "meaning": "To cause or bring about (a situation or condition).",
+      "sentence": "His reckless behavior beget numerous problems for the team.",
+      "formation": "From Old English 'begetan', meaning 'to father'."
+    },
+    {
+      "word": "Benevolent",
+      "meaning": "Well-meaning and kindly.",
+      "sentence": "She was a benevolent leader, always looking out for the welfare of her employees.",
+      "formation": "From Latin 'bene', meaning 'well', and 'velle', meaning 'to wish'."
+    },
+    {
+      "word": "Bilious",
+      "meaning": "Relating to bile; affected by or associated with nausea or vomiting.",
+      "sentence": "The bilious tone in his voice made it clear he was not pleased.",
+      "formation": "From Latin 'bilis', meaning 'bile'."
+    },
+    {
+      "word": "Burgeon",
+      "meaning": "To begin to grow or increase rapidly.",
+      "sentence": "The city's population began to burgeon after the new factory opened.",
+      "formation": "From Old French 'burjoner', meaning 'to sprout'."
+    },
+    {
+      "word": "Calibrate",
+      "meaning": "To adjust or standardize (a measuring instrument or device) to ensure accuracy.",
+      "sentence": "The technician had to calibrate the machine before it could be used for the experiment.",
+      "formation": "From Latin 'calibrare', meaning 'to balance or check'."
+    },
+    {
+      "word": "Cavort",
+      "meaning": "To jump or dance around excitedly.",
+      "sentence": "The children cavorted around the playground, filled with energy and joy.",
+      "formation": "From French 'cavorter', meaning 'to leap'."
+    },
+    {
+      "word": "Churlish",
+      "meaning": "Rude in a mean-spirited and surly way.",
+      "sentence": "His churlish behavior at the meeting offended everyone present.",
+      "formation": "From Old English 'ceorl', meaning 'a man or commoner'."
+    },
+    {
+      "word": "Clarion",
+      "meaning": "Loud and clear, especially in reference to a sound.",
+      "sentence": "The clarion call of the trumpet signaled the start of the parade.",
+      "formation": "From Old French 'clarion', meaning 'trumpet'."
+    },
+    {
+      "word": "Concur",
+      "meaning": "To agree or have the same opinion.",
+      "sentence": "The committee members concurred on the need for stricter regulations.",
+      "formation": "From Latin 'concurrere', meaning 'to run together'."
+    },
+    {
+      "word": "Cynosure",
+      "meaning": "A person or thing that is the center of attention or admiration.",
+      "sentence": "The young actress became the cynosure of the media after her breakout role.",
+      "formation": "From Greek 'kynosoura', meaning 'dog's tail' (a star in the constellation Ursa Minor)."
+    },
+    {
+      "word": "Delineate",
+      "meaning": "To describe or portray something precisely.",
+      "sentence": "The artist carefully delineated the landscape in fine detail.",
+      "formation": "From Latin 'delineare', meaning 'to sketch, outline'."
+    },
+    {
+      "word": "Demure",
+      "meaning": "Reserved, modest, or shy in manner.",
+      "sentence": "She gave a demure smile as the spotlight was on her.",
+      "formation": "From Latin 'demorari', meaning 'to delay or linger'."
+    },
+    {
+      "word": "Deprecate",
+      "meaning": "To express disapproval of something.",
+      "sentence": "The coach deprecated the players' lack of discipline during practice.",
+      "formation": "From Latin 'deprecari', meaning 'to pray against'."
+    },
+    {
+      "word": "Despondent",
+      "meaning": "Feeling hopeless or downhearted.",
+      "sentence": "She felt despondent after receiving the rejection letter.",
+      "formation": "From Latin 'despondere', meaning 'to promise or pledge'."
+    },
+    {
+      "word": "Diatribe",
+      "meaning": "A forceful and bitter verbal attack against someone or something.",
+      "sentence": "He launched into a diatribe against the government's policies.",
+      "formation": "From Greek 'diatribe', meaning 'a discourse'."
+    },
+    {
+      "word": "Diminutive",
+      "meaning": "Extremely small in size or amount.",
+      "sentence": "The diminutive puppy fit easily into the palm of her hand.",
+      "formation": "From Latin 'diminuere', meaning 'to lessen'."
+    },
+    {
+      "word": "Discern",
+      "meaning": "To perceive or recognize something with clarity and accuracy.",
+      "sentence": "She could discern the subtle difference between the two paintings.",
+      "formation": "From Latin 'discernere', meaning 'to separate, distinguish'."
+    },
+    {
+      "word": "Disdain",
+      "meaning": "A feeling of contempt or scorn towards something or someone.",
+      "sentence": "He looked at the messy room with disdain, unwilling to clean it.",
+      "formation": "From Latin 'disdare', meaning 'to look away from'."
+    },
+    {
+      "word": "Disparage",
+      "meaning": "To speak about someone or something in a way that shows strong disapproval and lack of respect.",
+      "sentence": "It was wrong of her to disparage her colleague's hard work in front of others.",
+      "formation": "From Old French 'desparagier', meaning 'to match unequally'."
+    },
+    {
+      "word": "Divulge",
+      "meaning": "To make something known, especially information that was meant to be kept secret.",
+      "sentence": "The employee refused to divulge details about the company's new product launch.",
+      "formation": "From Latin 'divulgare', meaning 'to spread abroad'."
+    },
+    {
+      "word": "Ebullient",
+      "meaning": "Overflowing with enthusiasm, excitement, or energy.",
+      "sentence": "Her ebullient personality made her the life of the party.",
+      "formation": "From Latin 'ebullire', meaning 'to bubble up'."
+    },
+    {
+      "word": "Emulate",
+      "meaning": "To strive to equal or surpass someone by imitating them.",
+      "sentence": "He hoped to emulate his mentor's success in the business world.",
+      "formation": "From Latin 'aemulari', meaning 'to strive to equal or rival'."
+    },
+    {
+      "word": "Enervate",
+      "meaning": "To drain of energy or vitality.",
+      "sentence": "The long hike through the mountains enervated them, leaving them exhausted.",
+      "formation": "From Latin 'enervare', meaning 'to weaken'."
+    },
+    {
+      "word": "Enmity",
+      "meaning": "The state or feeling of being actively opposed or hostile to someone or something.",
+      "sentence": "The two countries have a long history of enmity, which has caused tensions in the region.",
+      "formation": "From Latin 'inimicitia', meaning 'hostility'."
+    },
+    {
+      "word": "Epiphany",
+      "meaning": "A sudden realization or insight into the nature or meaning of something.",
+      "sentence": "He had an epiphany while reading the book, understanding his life’s purpose.",
+      "formation": "From Greek 'epiphaneia', meaning 'manifestation, appearance'."
+    },
+    {
+      "word": "Equanimity",
+      "meaning": "Mental calmness, composure, and evenness of temper, especially in difficult situations.",
+      "sentence": "She handled the criticism with remarkable equanimity, remaining calm and composed.",
+      "formation": "From Latin 'aequanimitas', meaning 'evenness of mind'."
+    },
+    {
+      "word": "Erudite",
+      "meaning": "Having or showing great knowledge or learning.",
+      "sentence": "The professor was known for his erudite lectures on ancient history.",
+      "formation": "From Latin 'eruditus', meaning 'instructed, learned'."
+    },
+    {
+      "word": "Esoteric",
+      "meaning": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest.",
+      "sentence": "The philosopher's writings were so esoteric that only a few scholars could comprehend them.",
+      "formation": "From Greek 'esoterikos', meaning 'inner'."
+    },
+    {
+      "word": "Evanescent",
+      "meaning": "Fleeting or temporary, lasting for only a short time.",
+      "sentence": "The beauty of the sunset was evanescent, disappearing as quickly as it arrived.",
+      "formation": "From Latin 'evanescere', meaning 'to disappear'."
+    },
+    {
+      "word": "Exacerbate",
+      "meaning": "To make a situation or a problem worse or more intense.",
+      "sentence": "The heavy rain only exacerbated the flooding in the area.",
+      "formation": "From Latin 'exacerbatus', meaning 'to irritate'."
+    },
+    {
+      "word": "Excoriate",
+      "meaning": "To criticize severely and publicly.",
+      "sentence": "The movie was excoriated by critics for its poor acting and weak plot.",
+      "formation": "From Latin 'excoriare', meaning 'to strip off the skin'."
+    },
+    {
+      "word": "Expedient",
+      "meaning": "Convenient and practical, although possibly improper or immoral.",
+      "sentence": "It may be expedient to overlook the mistake for now, but it must be addressed later.",
+      "formation": "From Latin 'expedire', meaning 'to free, to make ready'."
+    },
+    {
+      "word": "Expunge",
+      "meaning": "To erase or remove something completely.",
+      "sentence": "The court order allowed him to expunge the conviction from his record.",
+      "formation": "From Latin 'expungere', meaning 'to punch out'."
+    },
+    {
+      "word": "Exuberant",
+      "meaning": "Filled with lively energy, excitement, or enthusiasm.",
+      "sentence": "Her exuberant personality lit up the room, making everyone smile.",
+      "formation": "From Latin 'exuberare', meaning 'to overflow'."
+    },
+    {
+      "word": "Fervent",
+      "meaning": "Having or displaying passionate intensity.",
+      "sentence": "The fervent support of the fans made the event feel even more special.",
+      "formation": "From Latin 'fervens', meaning 'boiling, hot'."
+    },
+    {
+      "word": "Fickle",
+      "meaning": "Changing frequently, especially in regard to one's loyalties or affections.",
+      "sentence": "Her fickle attitude made it hard for anyone to predict her next move.",
+      "formation": "From Old French 'ficel', meaning 'a small string'."
+    },
+    {
+      "word": "Flagrant",
+      "meaning": "Conspicuously offensive or blatant, especially in terms of wrongdoing.",
+      "sentence": "His flagrant disregard for the rules led to his immediate dismissal.",
+      "formation": "From Latin 'flagrans', meaning 'burning'."
+    },
+    {
+      "word": "Flippant",
+      "meaning": "Not showing a serious or respectful attitude.",
+      "sentence": "His flippant response to the serious question irritated everyone.",
+      "formation": "From Latin 'flippare', meaning 'to strike'."
+    },
+    {
+      "word": "Foment",
+      "meaning": "To stir up or encourage the development of something, typically something undesirable.",
+      "sentence": "The politician's speech was meant to foment division among the public.",
+      "formation": "From Latin 'fomentare', meaning 'to warm, to support'."
+    },
+    {
+      "word": "Fortuitous",
+      "meaning": "Happening by chance, often in a way that is lucky or fortunate.",
+      "sentence": "It was a fortuitous meeting that led to the business partnership.",
+      "formation": "From Latin 'fortuitus', meaning 'chance'."
+    },
+    {
+      "word": "Frenetic",
+      "meaning": "Fast and energetic in a rather wild or uncontrolled way.",
+      "sentence": "The frenetic pace of the city left her feeling exhausted after just one day.",
+      "formation": "From Greek 'frenitis', meaning 'inflammation of the mind'."
+    },
+    {
+      "word": "Frivolous",
+      "meaning": "Not having any serious purpose or value.",
+      "sentence": "The judge dismissed the frivolous lawsuit as a waste of time.",
+      "formation": "From Latin 'frivolus', meaning 'silly'."
+    },
+    {
+      "word": "Garrulous",
+      "meaning": "Excessively talkative, especially about trivial matters.",
+      "sentence": "He grew tired of his garrulous neighbor, who would talk for hours without a pause.",
+      "formation": "From Latin 'garrulus', meaning 'talkative'."
+    },
+    {
+      "word": "Gluttonous",
+      "meaning": "Excessively greedy, especially in regard to food or drink.",
+      "sentence": "His gluttonous behavior at the buffet was frowned upon by the other guests.",
+      "formation": "From Latin 'gluttonus', meaning 'greedy'."
+    },
+    {
+      "word": "Grandiose",
+      "meaning": "Impressive and imposing in appearance or style, but often pretentious or extravagant.",
+      "sentence": "The grandiose mansion was adorned with marble floors and golden chandeliers.",
+      "formation": "From Latin 'grandiosus', meaning 'full of grandeur'."
+    },
+    {
+      "word": "Hackneyed",
+      "meaning": "Overused to the point of being stale or unoriginal.",
+      "sentence": "The movie's hackneyed plot failed to impress the audience, as it followed the same tired formula.",
+      "formation": "From 'hackney,' an old term for a horse used for ordinary work, implying something commonplace or dull."
+    },
+    {
+      "word": "Hapless",
+      "meaning": "Unfortunate or unlucky, often in a way that is persistent.",
+      "sentence": "The hapless traveler lost his luggage and missed his flight.",
+      "formation": "From Old English 'hap,' meaning luck, combined with the suffix '-less,' indicating the absence of luck."
+    },
+    {
+      "word": "Haughty",
+      "meaning": "Arrogantly superior and disdainful.",
+      "sentence": "Her haughty attitude made it difficult for her to make friends.",
+      "formation": "From Middle English 'haut,' meaning high or lofty, indicating a sense of superiority."
+    },
+    {
+      "word": "Hedonistic",
+      "meaning": "Pursuing pleasure or self-indulgence as the primary goal in life.",
+      "sentence": "His hedonistic lifestyle was filled with late-night parties and excessive indulgence.",
+      "formation": "From Greek 'hēdonē,' meaning pleasure."
+    },
+    {
+      "word": "Histrionic",
+      "meaning": "Overly theatrical or dramatic in behavior or speech.",
+      "sentence": "Her histrionic outburst in the meeting caused everyone to feel uncomfortable.",
+      "formation": "From Greek 'histrion,' meaning actor or player, implying exaggerated theatrical behavior."
+    },
+    {
+      "word": "Ineffable",
+      "meaning": "Too great or extreme to be expressed in words.",
+      "sentence": "The beauty of the landscape at sunrise was ineffable, leaving us all speechless.",
+      "formation": "From Latin 'ineffabilis,' meaning 'unspeakable' (from 'in-' meaning 'not' and 'effabilis' meaning 'able to be expressed')."
+    },
+    {
+      "word": "Infer",
+      "meaning": "To deduce or conclude information from evidence and reasoning rather than explicit statements.",
+      "sentence": "From her silence, I inferred that she was not happy with the decision.",
+      "formation": "From Latin 'inferre,' meaning 'to bring in' or 'to lead into.'"
+    },
+    {
+      "word": "Ingenuous",
+      "meaning": "Innocent and unsuspecting; free from deceit or manipulation.",
+      "sentence": "His ingenuous nature made him an easy target for scams.",
+      "formation": "From Latin 'ingenuus,' meaning 'native, freeborn,' implying sincerity or straightforwardness."
+    },
+    {
+      "word": "Innocuous",
+      "meaning": "Not harmful or offensive.",
+      "sentence": "The joke was innocuous, and no one was offended by it.",
+      "formation": "From Latin 'innocuus,' meaning 'harmless' (from 'in-' meaning 'not' and 'nocuus' meaning 'harmful')."
+    },
+    {
+      "word": "Insipid",
+      "meaning": "Lacking flavor, interest, or excitement.",
+      "sentence": "The soup was insipid, with no real taste to it.",
+      "formation": "From Latin 'insipidus,' meaning 'tasteless' (from 'in-' meaning 'not' and 'sapidus' meaning 'tasty')."
+    },
+    {
+      "word": "Intrepid",
+      "meaning": "Fearless and adventurous.",
+      "sentence": "The intrepid explorer traveled to remote corners of the world.",
+      "formation": "From Latin 'intrepidus,' meaning 'without fear' (from 'in-' meaning 'not' and 'trepidus' meaning 'fearful')."
+    },
+    {
+      "word": "Jaded",
+      "meaning": "Tired, bored, or lacking enthusiasm, typically after having had too much of something.",
+      "sentence": "She felt jaded after working the same job for years with little variety.",
+      "formation": "From Old French 'jaded,' meaning 'worn out' or 'broken down,' originally referring to a tired horse."
+    },
+    {
+      "word": "Lugubrious",
+      "meaning": "Looking or sounding sad and dismal.",
+      "sentence": "The lugubrious music matched the somber mood of the funeral.",
+      "formation": "From Latin 'lugubris,' meaning 'mournful.'"
+    },
+    {
+      "word": "Magnanimous",
+      "meaning": "Generous and forgiving, especially toward a rival or someone less powerful.",
+      "sentence": "Despite the loss, the magnanimous team congratulated the winners with grace.",
+      "formation": "From Latin 'magnanimus,' meaning 'great-souled' (from 'magnus' meaning 'great' and 'animus' meaning 'soul')."
+    },
+    {
+      "word": "Malevolent",
+      "meaning": "Having or showing a desire to harm others.",
+      "sentence": "The malevolent villain plotted to destroy the peaceful kingdom.",
+      "formation": "From Latin 'malevolentia,' meaning 'ill-will' (from 'male' meaning 'bad' and 'volens' meaning 'wishing')."
+    },
+    {
+      "word": "Maverick",
+      "meaning": "An independent-minded person who does not go along with the group or the norm.",
+      "sentence": "The maverick politician often spoke out against his own party's views.",
+      "formation": "From American English, referring to Samuel Maverick, a 19th-century rancher who did not brand his cattle."
+    },
+    {
+      "word": "Morose",
+      "meaning": "Sullen, gloomy, or ill-tempered.",
+      "sentence": "After hearing the bad news, he became morose and withdrew from the group.",
+      "formation": "From Latin 'morosus,' meaning 'peevish, ill-tempered.'"
+    },
+    {
+      "word": "Nefarious",
+      "meaning": "Wicked or criminal, especially in a way that is morally wrong.",
+      "sentence": "The nefarious schemes of the criminal mastermind were finally uncovered.",
+      "formation": "From Latin 'nefarious,' meaning 'wicked, impious' (from 'ne-' meaning 'not' and 'fas' meaning 'right')."
+    },
+    {
+      "word": "Obfuscate",
+      "meaning": "To deliberately make something unclear or difficult to understand.",
+      "sentence": "The politician's vague responses only served to obfuscate the truth.",
+      "formation": "From Latin 'obfuscatus,' meaning 'darkened' (from 'ob-' meaning 'over' and 'fuscus' meaning 'dark')."
+    },
+    {
+      "word": "Opaque",
+      "meaning": "Not able to be seen through; not transparent; unclear or hard to understand.",
+      "sentence": "The window was so dirty that it was almost opaque, blocking all light from entering.",
+      "formation": "From Latin 'opaacus,' meaning 'dark or shady.'"
+    },
+    {
+      "word": "Ostensible",
+      "meaning": "Stated or appearing to be true, but not necessarily so.",
+      "sentence": "The ostensible reason for his absence was illness, but he was later seen at a party.",
+      "formation": "From Latin 'ostendere', meaning 'to show'."
+    },
+    {
+      "word": "Ostentatious",
+      "meaning": "Characterized by vulgar or pretentious display, designed to impress or attract notice.",
+      "sentence": "The ostentatious decorations at the party made it clear that the host wanted to show off.",
+      "formation": "From Latin 'ostentare', meaning 'to show off'."
+    },
+    {
+      "word": "Paradox",
+      "meaning": "A statement that contradicts itself but may still be true.",
+      "sentence": "The idea that less is more is a paradox that can be seen in many aspects of life.",
+      "formation": "From Greek 'paradoxon', meaning 'contrary to expectation'."
+    },
+    {
+      "word": "Penitent",
+      "meaning": "Feeling or showing sorrow and regret for having done wrong.",
+      "sentence": "The penitent thief confessed his crimes and sought forgiveness.",
+      "formation": "From Latin 'paenitens', meaning 'repentant'."
+    },
+    {
+      "word": "Perfunctory",
+      "meaning": "Carried out with a minimum of effort or reflection.",
+      "sentence": "His perfunctory handshake indicated his lack of interest in the meeting.",
+      "formation": "From Latin 'perfungi', meaning 'to perform'."
+    },
+    {
+      "word": "Pernicious",
+      "meaning": "Having a harmful effect, especially in a gradual or subtle way.",
+      "sentence": "The pernicious influence of the corrupt leader spread throughout the country.",
+      "formation": "From Latin 'perniciosus', meaning 'destructive'."
+    },
+    {
+      "word": "Phlegmatic",
+      "meaning": "Having an unemotional and stolidly calm disposition.",
+      "sentence": "His phlegmatic reaction to the news surprised everyone in the room.",
+      "formation": "From Greek 'phlegmatikos', meaning 'sanguine'."
+    },
+    {
+      "word": "Placate",
+      "meaning": "To make someone less angry or hostile.",
+      "sentence": "He tried to placate the angry customer by offering a refund.",
+      "formation": "From Latin 'placare', meaning 'to please'."
+    },
+    {
+      "word": "Pompous",
+      "meaning": "Affectedly grand, solemn, or self-important.",
+      "sentence": "His pompous speech about his accomplishments irritated everyone at the event.",
+      "formation": "From Latin 'pompa', meaning 'procession'."
+    },
+    {
+      "word": "Profligate",
+      "meaning": "Recklessly extravagant or wasteful in the use of resources.",
+      "sentence": "The profligate spending of the company led to its financial ruin.",
+      "formation": "From Latin 'profligatus', meaning 'overthrown'."
+    },
+    {
+      "word": "Profuse",
+      "meaning": "Abundant or excessive, especially in terms of something offered or given.",
+      "sentence": "He offered profuse apologies for being late to the meeting.",
+      "formation": "From Latin 'profusus', meaning 'spilled forth'."
+    },
+    {
+      "word": "Provincial",
+      "meaning": "Relating to a province or region, often used to describe someone narrow-minded or unsophisticated.",
+      "sentence": "His provincial attitude made him unaware of the global trends in technology.",
+      "formation": "From Latin 'provincialis', meaning 'belonging to a province'."
+    },
+    {
+      "word": "Quixotic",
+      "meaning": "Extremely idealistic, unrealistic, and impractical.",
+      "sentence": "His quixotic plans to save the world were met with skepticism by his friends.",
+      "formation": "From 'Don Quixote', the name of a character in a novel by Miguel de Cervantes."
+    },
+    {
+      "word": "Recalcitrant",
+      "meaning": "Having an obstinately uncooperative attitude towards authority or discipline.",
+      "sentence": "The recalcitrant student refused to follow the teacher's instructions.",
+      "formation": "From Latin 'recalcitrare', meaning 'to kick back'."
+    },
+    {
+      "word": "Recant",
+      "meaning": "To say that one no longer holds a particular opinion or belief, especially one considered heretical.",
+      "sentence": "He was forced to recant his earlier statement due to public pressure.",
+      "formation": "From Latin 'recantare', meaning 'to recall'."
+    },
+    {
+      "word": "Rescind",
+      "meaning": "To revoke, cancel, or repeal (a law, order, or agreement).",
+      "sentence": "The company decided to rescind the job offer after further review.",
+      "formation": "From Latin 'rescindere', meaning 'to cut off'."
+    },
+    {
+      "word": "Sardonic",
+      "meaning": "Grimly mocking or cynical.",
+      "sentence": "His sardonic smile made it clear he didn't take the situation seriously.",
+      "formation": "From Greek 'sardonios', meaning 'bitter or scornful'."
+    },
+    {
+      "word": "Scathing",
+      "meaning": "Witheringly scornful, severely critical.",
+      "sentence": "The review was scathing, leaving no aspect of the film uncriticized.",
+      "formation": "From Old French 'escathier', meaning 'to wound'."
+    },
+    {
+      "word": "Seditious",
+      "meaning": "Inciting or causing people to rebel against the authority of a state or monarch.",
+      "sentence": "The seditious speech was deemed a threat to national security.",
+      "formation": "From Latin 'seditiosus', meaning 'tending to sedition'."
+    },
+    {
+      "word": "Sentient",
+      "meaning": "Able to perceive or feel things; conscious or aware.",
+      "sentence": "The sentient being was able to express emotions and understand its surroundings.",
+      "formation": "From Latin 'sentientem,' meaning 'feeling, perceiving,' from 'sentire' meaning 'to feel.'"
+    },
+    {
+      "word": "Skeptical",
+      "meaning": "Doubtful or questioning, especially regarding the truth of something.",
+      "sentence": "She was skeptical of the new policy, unsure if it would truly benefit the community.",
+      "formation": "From Greek 'skeptikos,' meaning 'inquiring, reflecting.'"
+    },
+    {
+      "word": "Sycophant",
+      "meaning": "A person who acts obsequiously toward someone important in order to gain advantage.",
+      "sentence": "The sycophant constantly flattered the boss to get promoted.",
+      "formation": "From Greek 'sykophantes,' meaning 'informer, accuser' (from 'sykon' meaning 'fig' and 'phaino' meaning 'to show')."
+    },
+    {
+      "word": "Tacit",
+      "meaning": "Understood or implied without being stated directly.",
+      "sentence": "There was a tacit agreement that everyone would contribute to the project.",
+      "formation": "From Latin 'tacitus,' meaning 'silent.'"
+    },
+    {
+      "word": "Tantamount",
+      "meaning": "Equivalent in seriousness or effect, virtually the same as.",
+      "sentence": "His refusal to apologize was tantamount to admitting guilt.",
+      "formation": "From Old French 'tant amont,' meaning 'as much as.'"
+    },
+    {
+      "word": "Trivial",
+      "meaning": "Of little value or importance.",
+      "sentence": "The argument seemed trivial compared to the larger issues at hand.",
+      "formation": "From Latin 'trivium,' meaning 'the three foundational arts of grammar, rhetoric, and logic,' which were considered basic or insignificant compared to higher learning."
+    },
+    {
+      "word": "Ubiquitous",
+      "meaning": "Present, appearing, or found everywhere.",
+      "sentence": "Smartphones are ubiquitous in modern society, seen in nearly everyone's hands.",
+      "formation": "From Latin 'ubiquitas,' meaning 'everywhere.'"
+    },
+    {
+      "word": "Vehement",
+      "meaning": "Showing strong feeling; passionate or intense.",
+      "sentence": "The vehement protestors demanded immediate action from the government.",
+      "formation": "From Latin 'vehemens,' meaning 'impetuous, forceful.'"
+    },
+    {
+      "word": "Vex",
+      "meaning": "To annoy, frustrate, or worry someone.",
+      "sentence": "The constant noise outside began to vex her, making it difficult to concentrate.",
+      "formation": "From Latin 'vexare,' meaning 'to shake or agitate.'"
+    },
+    {
+      "word": "Voracious",
+      "meaning": "Having a very eager approach to something, especially food or activity.",
+      "sentence": "The voracious reader finished the entire novel in one sitting.",
+      "formation": "From Latin 'vorax,' meaning 'devouring.'"
+    },
+    {
+      "word": "Wheedle",
+      "meaning": "To influence or persuade someone to do something by flattering or coaxing.",
+      "sentence": "She managed to wheedle a free dessert from the waiter by complimenting his service.",
+      "formation": "From Middle English 'whedlen,' meaning 'to deceive or cajole.'"
+    },
+    {
+      "word": "Whimsical",
+      "meaning": "Playfully quaint or unusual in an appealing or amusing way.",
+      "sentence": "The whimsical design of the house made it stand out from the rest of the neighborhood.",
+      "formation": "From 'whimsy,' meaning 'a fanciful or playful idea.'"
+    },
+    {
+      "word": "Zealous",
+      "meaning": "Having or showing great energy or enthusiasm in pursuit of a cause or objective.",
+      "sentence": "The zealous volunteer worked tirelessly to help the charity reach its goal.",
+      "formation": "From Greek 'zelos,' meaning 'zeal, enthusiasm.'"
+    },
+    {
+      "word": "Abstemious",
+      "meaning": "Not self-indulgent, especially when eating and drinking.",
+      "sentence": "His abstemious lifestyle allowed him to maintain good health despite his busy schedule.",
+      "formation": "From Latin 'abstemius,' meaning 'moderate, temperate.'"
+    },
+    {
+      "word": "Alacrity",
+      "meaning": "Brisk and cheerful readiness.",
+      "sentence": "She accepted the invitation with alacrity, eager to join the event.",
+      "formation": "From Latin 'alacritas,' meaning 'quickness, eagerness.'"
+    },
+    {
+      "word": "Anathema",
+      "meaning": "A person or thing that is intensely disliked or loathed; a formal curse by a religious authority.",
+      "sentence": "The idea of cheating was anathema to the honest student.",
+      "formation": "From Greek 'anathematicos,' meaning 'dedicated to a god' (used later to describe someone or something formally cursed)."
+    },
+    {
+      "word": "Aspire",
+      "meaning": "To direct one's hopes or ambitions toward achieving something.",
+      "sentence": "She aspired to become a doctor, dedicating years to studying and training.",
+      "formation": "From Latin 'aspirare,' meaning 'to breathe upon or toward.'"
+    },
+    {
+      "word": "Beguile",
+      "meaning": "To charm or enchant someone, often in a deceptive way.",
+      "sentence": "He tried to beguile the audience with his eloquent speech, though his intentions were less than sincere.",
+      "formation": "From Old French 'beguiller,' meaning 'to deceive, delude.'"
+    },
+    {
+      "word": "Brevity",
+      "meaning": "The quality of being brief or concise in duration or expression.",
+      "sentence": "The brevity of his speech was appreciated, as it got straight to the point.",
+      "formation": "From Latin 'brevitas,' meaning 'shortness, briefness.'"
+    },
+    {
+      "word": "Catalyst",
+      "meaning": "A substance or agent that accelerates a chemical reaction, or a person or thing that brings about change or action.",
+      "sentence": "The new leader acted as a catalyst for reform within the organization.",
+      "formation": "From Greek 'katalysis,' meaning 'dissolution' or 'a loosening.'"
+    },
+    {
+      "word": "Deleterious",
+      "meaning": "Having a harmful effect, especially in a gradual or subtle way.",
+      "sentence": "The deleterious effects of smoking on health are well-documented.",
+      "formation": "From Greek 'deleterios', meaning 'noxious'."
+    },
+    {
+      "word": "Effervescent",
+      "meaning": "Bubbly, lively, or enthusiastic.",
+      "sentence": "Her effervescent personality made her the life of the party.",
+      "formation": "From Latin 'effervescere', meaning 'to boil up'."
+    },
+    {
+      "word": "Exculpate",
+      "meaning": "To clear someone of blame or fault.",
+      "sentence": "The new evidence helped to exculpate the defendant from the crime.",
+      "formation": "From Latin 'exculpare', meaning 'to clear from blame'."
+    },
+    {
+      "word": "Feckless",
+      "meaning": "Lacking initiative or strength of character; irresponsible.",
+      "sentence": "His feckless attitude towards his studies led to poor grades.",
+      "formation": "From Scots 'feck', meaning 'effect'."
+    },
+    {
+      "word": "Feral",
+      "meaning": "Existing in a wild or untamed state.",
+      "sentence": "The feral cat roamed the streets, avoiding human contact.",
+      "formation": "From Latin 'ferus', meaning 'wild'."
+    },
+    {
+      "word": "Foment",
+      "meaning": "To stir up or promote the development of something, typically something undesirable.",
+      "sentence": "The leaders tried to foment unrest among the citizens with their radical ideas.",
+      "formation": "From Latin 'fomentare', meaning 'to warm, to encourage'."
+    },
+    {
+      "word": "Harbinger",
+      "meaning": "A person or thing that announces or signals the approach of another.",
+      "sentence": "The robin is often considered a harbinger of spring.",
+      "formation": "From Old French 'herberger', meaning 'to shelter'."
+    },
+    {
+      "word": "Hegemony",
+      "meaning": "Leadership or dominance, especially by one country or social group over others.",
+      "sentence": "The nation's hegemony over the region remained uncontested for decades.",
+      "formation": "From Greek 'hēgemonia', meaning 'leadership'."
+    },
+    {
+      "word": "Incendiary",
+      "meaning": "Tending to stir up conflict or capable of causing fire.",
+      "sentence": "His incendiary remarks ignited a passionate debate among the crowd.",
+      "formation": "From Latin 'incendiarius', meaning 'set on fire'."
+    },
+    {
+      "word": "Indelible",
+      "meaning": "Not able to be erased or forgotten.",
+      "sentence": "The experience left an indelible impression on her mind.",
+      "formation": "From Latin 'indelebilis', meaning 'that cannot be blotted out'."
+    },
+    {
+      "word": "Ineffable",
+      "meaning": "Too great or extreme to be expressed in words.",
+      "sentence": "The beauty of the sunset was ineffable, leaving everyone speechless.",
+      "formation": "From Latin 'ineffabilis', meaning 'unutterable'."
+    },
+    {
+      "word": "Intransigent",
+      "meaning": "Unwilling to change one's views or to agree about something.",
+      "sentence": "Despite the negotiations, the two sides remained intransigent on key issues.",
+      "formation": "From Latin 'intransigens', meaning 'not coming across'."
+    },
+    {
+      "word": "Jocular",
+      "meaning": "Characterized by joking or humor.",
+      "sentence": "His jocular nature made him a favorite at parties.",
+      "formation": "From Latin 'jocularis', meaning 'of jokes'."
+    },
+    {
+      "word": "Kismet",
+      "meaning": "Destiny or fate, especially in a positive sense.",
+      "sentence": "It was kismet that they met at the airport just before the flight.",
+      "formation": "From Turkish 'kısmet', meaning 'fate'."
+    },
+    {
+      "word": "Laudable",
+      "meaning": "Deserving praise and commendation.",
+      "sentence": "Her efforts to improve the community were laudable.",
+      "formation": "From Latin 'laudabilis', meaning 'praiseworthy'."
+    },
+    {
+      "word": "Languor",
+      "meaning": "A state of tiredness or weakness, often pleasant or enjoyable.",
+      "sentence": "The heat of the afternoon brought a languor that made it difficult to work.",
+      "formation": "From Latin 'languor', meaning 'faintness'."
+    },
+    {
+      "word": "Lurid",
+      "meaning": "Shocking, explicit, or sensational in a way that provokes a strong reaction.",
+      "sentence": "The lurid details of the crime kept the media buzzing for weeks.",
+      "formation": "From Latin 'luridus', meaning 'pale or ghastly'."
+    },
+    {
+      "word": "Mendacious",
+      "meaning": "Not telling the truth; lying.",
+      "sentence": "His mendacious statements were quickly debunked by the investigation.",
+      "formation": "From Latin 'mendacius', meaning 'false'."
+    },
+    {
+      "word": "Munificent",
+      "meaning": "More generous than is usual or necessary.",
+      "sentence": "The munificent donation helped fund the entire project.",
+      "formation": "From Latin 'munificentia', meaning 'generosity'."
+    },
+    {
+      "word": "Noxious",
+      "meaning": "Harmful, poisonous, or very unpleasant.",
+      "sentence": "The noxious fumes from the factory caused health problems for nearby residents.",
+      "formation": "From Latin 'noxius', meaning 'harmful'."
+    },
+    {
+      "word": "Omniscient",
+      "meaning": "Having complete or unlimited knowledge, awareness, or understanding.",
+      "sentence": "The omniscient narrator in the novel knows the thoughts and feelings of all characters.",
+      "formation": "From Latin 'omnis', meaning 'all', and 'scientia', meaning 'knowledge'."
+    },
+    {
+      "word": "Perpetuate",
+      "meaning": "To cause something to continue indefinitely.",
+      "sentence": "The myths surrounding the hero's deeds were perpetuated through stories passed down through generations.",
+      "formation": "From Latin 'perpetuare', meaning 'to make perpetual'."
+    },
+    {
+      "word": "Platonic",
+      "meaning": "Relating to or involving love that is purely spiritual, without physical attraction.",
+      "sentence": "They had a platonic friendship, built on mutual respect and intellectual connection.",
+      "formation": "From Plato, the ancient Greek philosopher, who wrote about love and relationships without physical desire."
+    },
+    {
+      "word": "Rapturous",
+      "meaning": "Filled with great joy or pleasure; ecstatic.",
+      "sentence": "The crowd gave a rapturous applause after the performance.",
+      "formation": "From Latin 'rapturus,' meaning 'to seize, to carry off,' implying being overwhelmed with emotion."
+    },
+    {
+      "word": "Repudiate",
+      "meaning": "To reject or refuse to accept something or someone.",
+      "sentence": "She repudiated the accusations, claiming they were entirely false.",
+      "formation": "From Latin 'repudiare,' meaning 'to cast off' or 'reject.'"
+    },
+    {
+      "word": "Sublime",
+      "meaning": "Of such excellence, grandeur, or beauty as to inspire great admiration or awe.",
+      "sentence": "The view from the mountaintop was sublime, leaving everyone speechless.",
+      "formation": "From Latin 'sublimis,' meaning 'high, elevated.'"
+    },
+    {
+      "word": "Sycophant",
+      "meaning": "A person who acts obsequiously toward someone important in order to gain advantage.",
+      "sentence": "The sycophant constantly flattered the CEO to gain favor.",
+      "formation": "From Greek 'sykophantes,' meaning 'informer' (from 'sykon' meaning 'fig' and 'phaino' meaning 'to show')."
+    },
+    {
+      "word": "Tenacious",
+      "meaning": "Holding fast; characterized by persistence or determination.",
+      "sentence": "Her tenacious effort finally paid off when she earned the promotion.",
+      "formation": "From Latin 'tenax,' meaning 'holding fast.'"
+    },
+    {
+      "word": "Tepid",
+      "meaning": "Lukewarm; showing little enthusiasm or emotion.",
+      "sentence": "The audience gave a tepid response to the speaker's uninspired presentation.",
+      "formation": "From Latin 'tepidus,' meaning 'lukewarm.'"
+    },
+    {
+      "word": "Tantamount",
+      "meaning": "Equivalent in seriousness or effect, virtually the same as.",
+      "sentence": "Her refusal to apologize was tantamount to an admission of guilt.",
+      "formation": "From Old French 'tant amont,' meaning 'as much as.'"
+    },
+    {
+      "word": "Unctuous",
+      "meaning": "Excessively flattering or ingratiating, often in a way that seems insincere.",
+      "sentence": "His unctuous demeanor made it clear he was only after a promotion.",
+      "formation": "From Latin 'unctus,' meaning 'anointed' (referring to something oily or slippery)."
+    },
+    {
+      "word": "Vindicate",
+      "meaning": "To clear someone of blame or suspicion; to justify or prove something right.",
+      "sentence": "The evidence served to vindicate her innocence in the case.",
+      "formation": "From Latin 'vindicare,' meaning 'to claim, to avenge.'"
+    },
+    {
+      "word": "Vociferous",
+      "meaning": "Loud, noisy, or expressing opinions in a forceful or outspoken manner.",
+      "sentence": "The vociferous crowd protested outside the courthouse.",
+      "formation": "From Latin 'vociferari,' meaning 'to shout, cry out.'"
+    },
+    {
+      "word": "Zealot",
+      "meaning": "A person who is fanatically committed to a cause or belief, often to an extreme degree.",
+      "sentence": "The zealot refused to listen to any opposing viewpoints.",
+      "formation": "From Greek 'zelotes,' meaning 'emulator' or 'enthusiast.'"
+    },
+    {
+      "word": "Abrogate",
+      "meaning": "To repeal or do away with a law, right, or formal agreement.",
+      "sentence": "The government moved to abrogate the outdated regulations.",
+      "formation": "From Latin 'abrogare,' meaning 'to repeal.'"
+    },
+    {
+      "word": "Acerbic",
+      "meaning": "Sharp and forthright, often in speech or manner; harsh or biting.",
+      "sentence": "Her acerbic comments during the meeting left everyone feeling uncomfortable.",
+      "formation": "From Latin 'acerbus,' meaning 'harsh, sour.'"
+    },
+    {
+      "word": "Apathy",
+      "meaning": "Lack of interest, enthusiasm, or concern.",
+      "sentence": "His apathy toward the project made it difficult to get him involved.",
+      "formation": "From Greek 'apatheia,' meaning 'lack of feeling or emotion.'"
+    },
+    {
+      "word": "Brevity",
+      "meaning": "The quality of being brief and concise in expression.",
+      "sentence": "The brevity of the speech was appreciated, getting straight to the point.",
+      "formation": "From Latin 'brevitas,' meaning 'shortness, briefness.'"
+    },
+    {
+      "word": "Cavalier",
+      "meaning": "Showing a lack of proper concern; dismissive or indifferent.",
+      "sentence": "His cavalier attitude toward the problem made it worse.",
+      "formation": "From Old French 'chevalier,' meaning 'horseman, knight,' implying a sense of aristocratic superiority or disregard."
+    },
+    {
+      "word": "Contrite",
+      "meaning": "Feeling or expressing remorse or guilt.",
+      "sentence": "He gave a contrite apology for his rude behavior.",
+      "formation": "From Latin 'contritus,' meaning 'worn down, crushed.'"
+    },
+    {
+      "word": "Cynical",
+      "meaning": "Believing that people are motivated purely by self-interest, often with a negative view of human nature.",
+      "sentence": "Her cynical view of politics made her reluctant to vote.",
+      "formation": "From Greek 'kynikos,' meaning 'dog-like,' originally referring to the ancient Cynic philosophers who believed in rejecting society's norms."
+    },
+    {
+      "word": "Deleterious",
+      "meaning": "Having a harmful or damaging effect.",
+      "sentence": "The deleterious effects of smoking are well-documented.",
+      "formation": "From Greek 'deleterios,' meaning 'destructive.'"
+    },
+    {
+      "word": "Exonerate",
+      "meaning": "To officially clear someone of blame or wrongdoing.",
+      "sentence": "The new evidence was enough to exonerate the defendant from all charges.",
+      "formation": "From Latin 'exonerare', meaning 'to relieve of a burden'."
+    },
+    {
+      "word": "Facetious",
+      "meaning": "Treating serious issues with deliberately inappropriate humor.",
+      "sentence": "His facetious remarks during the meeting were not appreciated by his colleagues.",
+      "formation": "From Latin 'facetus', meaning 'elegant, witty'."
+    },
+    {
+      "word": "Flabbergasted",
+      "meaning": "Extremely surprised or shocked.",
+      "sentence": "She was flabbergasted when she won the grand prize in the lottery.",
+      "formation": "Origin unknown, possibly from 'flap' (to strike) and 'gast' (to be astonished)."
+    },
+    {
+      "word": "Gallivant",
+      "meaning": "To go around from place to place in search of pleasure or excitement.",
+      "sentence": "They spent the summer gallivanting through Europe, visiting all the major cities.",
+      "formation": "From an unknown origin, first used in the 16th century."
+    },
+    {
+      "word": "Inimical",
+      "meaning": "Hostile, harmful, or unfriendly.",
+      "sentence": "The company's actions were inimical to the interests of its workers.",
+      "formation": "From Latin 'inimicus', meaning 'enemy'."
+    },
+    {
+      "word": "Lethargic",
+      "meaning": "Sluggish, lacking energy or vitality.",
+      "sentence": "After the long flight, I felt lethargic and could barely keep my eyes open.",
+      "formation": "From Greek 'lethargos', meaning 'forgetful, inactive'."
+    },
+    {
+      "word": "Nostalgia",
+      "meaning": "A sentimental longing or wistful affection for the past.",
+      "sentence": "Looking at old photographs filled him with nostalgia for his childhood.",
+      "formation": "From Greek 'nostos' (return) and 'algos' (pain)."
+    },
+    {
+      "word": "Plausible",
+      "meaning": "Seeming reasonable or probable.",
+      "sentence": "The detective came up with a plausible explanation for the missing evidence.",
+      "formation": "From Latin 'plausibilis', meaning 'worthy of applause'."
+    },
+    {
+      "word": "Quixotic",
+      "meaning": "Extremely idealistic, unrealistic, and impractical.",
+      "sentence": "His quixotic efforts to save the environment led him to take bold but unfeasible actions.",
+      "formation": "From the character 'Don Quixote' in the novel by Cervantes, who was known for his impractical ideals."
+    },
+    {
+      "word": "Rancor",
+      "meaning": "A deep, bitter resentment or ill-will.",
+      "sentence": "There was a lingering rancor between the two political parties after the election.",
+      "formation": "From Latin 'rancor', meaning 'stinking, rancid'."
+    },
+    {
+      "word": "Serendipity",
+      "meaning": "The occurrence of events by chance in a happy or beneficial way.",
+      "sentence": "It was pure serendipity that I found my lost wallet just as I was about to give up searching.",
+      "formation": "Coined by Horace Walpole in 1754, from the Persian fairy tale 'The Three Princes of Serendip'."
+    },
+    {
+      "word": "Somber",
+      "meaning": "Dark, gloomy, or serious in manner.",
+      "sentence": "The somber atmosphere at the funeral reflected the sadness of the occasion.",
+      "formation": "From French 'sombre', meaning 'dark'."
+    },
+    {
+      "word": "Spurious",
+      "meaning": "Not genuine, false or counterfeit.",
+      "sentence": "The spurious claims made by the politician were quickly debunked by the media.",
+      "formation": "From Latin 'spurius', meaning 'false'."
+    },
+    {
+      "word": "Sublime",
+      "meaning": "Of such excellence, grandeur, or beauty as to inspire great admiration or awe.",
+      "sentence": "The sublime beauty of the mountain landscape left everyone speechless.",
+      "formation": "From Latin 'sublimis', meaning 'uplifted'."
+    },
+    {
+      "word": "Taciturn",
+      "meaning": "Reserved or uncommunicative in speech; saying little.",
+      "sentence": "He was a taciturn man, rarely engaging in conversation unless necessary.",
+      "formation": "From Latin 'taciturnus', meaning 'silent'."
+    },
+    {
+      "word": "Vivid",
+      "meaning": "Producing powerful feelings or strong, clear images in the mind.",
+      "sentence": "Her vivid description of the scene made me feel like I was there.",
+      "formation": "From Latin 'vividus', meaning 'full of life'."
+    },
+    {
+      "word": "Wistful",
+      "meaning": "Longing or yearning for something that is impossible or unattainable.",
+      "sentence": "He looked at the old house with a wistful expression, remembering the good times spent there.",
+      "formation": "From Old English 'wistful', meaning 'full of longing'."
+    },
+    {
+      "word": "Zealot",
+      "meaning": "A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals.",
+      "sentence": "The zealot refused to consider any compromise on the issue, believing his view was the only correct one.",
+      "formation": "From Greek 'zēlotēs', meaning 'a zealous person'."
+    },
+    {
+      "word": "Abrogate",
+      "meaning": "To formally abolish, annul, or revoke a law, agreement, or custom.",
+      "sentence": "The government decided to abrogate the outdated law that had been in place for centuries.",
+      "formation": "From Latin 'abrogare', meaning 'to repeal'."
+    },
+    {
+      "word": "Abscond",
+      "meaning": "To leave hurriedly and secretly, typically to avoid detection or arrest.",
+      "sentence": "The thief absconded with the stolen jewels before anyone could catch him.",
+      "formation": "From Latin 'abscondere', meaning 'to hide away'."
+    },
+    {
+      "word": "Accolade",
+      "meaning": "An award or privilege granted as a special honor or acknowledgment of merit.",
+      "sentence": "She received an accolade for her outstanding contributions to the field of science.",
+      "formation": "From Old French 'accoler', meaning 'to embrace'."
+    },
+    {
+      "word": "Aloof",
+      "meaning": "Not friendly or forthcoming; distant or reserved.",
+      "sentence": "He stood aloof from the crowd, preferring to observe rather than participate.",
+      "formation": "From Middle English 'aloufe', meaning 'to the windward'."
+    },
+    {
+      "word": "Ameliorate",
+      "meaning": "To make something better or more tolerable.",
+      "sentence": "The new policies were designed to ameliorate the working conditions of employees.",
+      "formation": "From Latin 'ameliorare', meaning 'to improve'."
+    },
+    {
+      "word": "Anthropomorphic",
+      "meaning": "Attributing human characteristics or behavior to a god, animal, or object.",
+      "sentence": "The anthropomorphic characters in the novel could talk and walk like humans.",
+      "formation": "From Greek 'anthropos' (human) and 'morphē' (form)."
+    },
+    {
+      "word": "Antithesis",
+      "meaning": "A contrast or opposition between two things.",
+      "sentence": "The antithesis of love is not hate, but indifference.",
+      "formation": "From Greek 'antithesis', meaning 'opposition'."
+    },
+    {
+      "word": "Benevolent",
+      "meaning": "Well-meaning and kindly.",
+      "sentence": "She was known for her benevolent nature, always willing to help others in need.",
+      "formation": "From Latin 'benevolentia', meaning 'goodwill'."
+    },
+    {
+      "word": "Caveat",
+      "meaning": "A warning or proviso of specific stipulations, conditions, or limitations.",
+      "sentence": "The contract was signed with a caveat stating that the terms could change in the future.",
+      "formation": "From Latin 'cavere', meaning 'to beware'."
+    },
+    {
+      "word": "Concomitant",
+      "meaning": "Naturally accompanying or associated with something.",
+      "sentence": "The disease was accompanied by a concomitant loss of appetite and energy.",
+      "formation": "From Latin 'concomitari', meaning 'to accompany'."
+    },
+    {
+      "word": "Demure",
+      "meaning": "Reserved, modest, or shy in manner or behavior.",
+      "sentence": "She gave a demure smile as she accepted the award.",
+      "formation": "From Latin 'demorari', meaning 'to delay or hesitate'."
+    },
+    {
+      "word": "Egregious",
+      "meaning": "Outstandingly bad; shocking.",
+      "sentence": "The company's egregious disregard for environmental regulations led to a hefty fine.",
+      "formation": "From Latin 'egregius', meaning 'distinguished' (originally used in a positive sense)."
+    },
+    {
+      "word": "Entourage",
+      "meaning": "A group of people attending or surrounding an important person.",
+      "sentence": "The celebrity arrived with her entourage, including her personal assistant and security team.",
+      "formation": "From French, meaning 'to surround'."
+    },
+    {
+      "word": "Exacerbate",
+      "meaning": "To make a situation worse or more severe.",
+      "sentence": "His remarks only served to exacerbate the tension in the room.",
+      "formation": "From Latin 'exacerbare', meaning 'to irritate'."
+    },
+    {
+      "word": "Garrulous",
+      "meaning": "Excessively talkative, especially on trivial matters.",
+      "sentence": "The garrulous man could talk for hours about his favorite hobby, much to the annoyance of others.",
+      "formation": "From Latin 'garrulus', meaning 'chattering'."
+    },
+    {
+      "word": "Harbinger",
+      "meaning": "A person or thing that signals the approach of another.",
+      "sentence": "The blooming of flowers in early spring is a harbinger of warmer weather to come.",
+      "formation": "From Old French 'herberger', meaning 'to shelter'."
+    },
+    {
+      "word": "Iconoclast",
+      "meaning": "A person who attacks or criticizes traditional beliefs or institutions.",
+      "sentence": "The artist was considered an iconoclast for challenging societal norms through his work.",
+      "formation": "From Greek 'eikon' (image) and 'klan' (to break)."
+    },
+    {
+      "word": "Irascible",
+      "meaning": "Easily angered or prone to anger.",
+      "sentence": "The irascible old man was quick to shout at anyone who disturbed his peace.",
+      "formation": "From Latin 'irasci', meaning 'to become angry'."
+    },
+    {
+      "word": "Juxtapose",
+      "meaning": "To place two things side by side for comparison or contrast.",
+      "sentence": "The artist juxtaposed the modern cityscape with images of nature to show the clash between industry and the environment.",
+      "formation": "From Latin 'juxta' (near) and 'pose' (to place)."
+    },
+    {
+      "word": "Laconic",
+      "meaning": "Using few words; concise and succinct.",
+      "sentence": "His laconic response to the complicated question left everyone in the room confused.",
+      "formation": "From Greek 'Lakōnikos', meaning 'Spartan', who were known for their brevity in speech."
+    },
+    {
+      "word": "Maverick",
+      "meaning": "An independent-minded person who does not conform to the established rules or norms.",
+      "sentence": "She was a maverick in the business world, always pursuing unconventional strategies.",
+      "formation": "From Samuel Maverick, a 19th-century American rancher who did not brand his cattle."
+    },
+    {
+      "word": "Noxious",
+      "meaning": "Harmful, poisonous, or very unpleasant.",
+      "sentence": "The noxious fumes from the factory made it difficult for nearby residents to breathe.",
+      "formation": "From Latin 'noxius', meaning 'harmful'."
+    },
+    {
+      "word": "Ostensible",
+      "meaning": "Appearing or seeming to be true, but not necessarily so.",
+      "sentence": "His ostensible reason for leaving early was to attend a meeting, but no one knew for sure.",
+      "formation": "From Latin 'ostensibilis,' meaning 'that can be shown, apparent.'"
+    },
+    {
+      "word": "Panacea",
+      "meaning": "A universal remedy or solution to all problems or difficulties.",
+      "sentence": "Many believe that technology is the panacea for all modern issues, but it often complicates things.",
+      "formation": "From Greek 'panakeia,' meaning 'all-healing,' from 'pan' (all) + 'akos' (remedy)."
+    },
+    {
+      "word": "Perfunctory",
+      "meaning": "Done as a routine or duty without real interest or effort.",
+      "sentence": "His perfunctory nods during the meeting indicated he wasn’t truly paying attention.",
+      "formation": "From Latin 'perfunctus,' meaning 'to perform,' with the sense of doing something with minimal effort."
+    },
+    {
+      "word": "Pinnacle",
+      "meaning": "The highest point or peak, often referring to achievement or success.",
+      "sentence": "Winning the award was the pinnacle of her career.",
+      "formation": "From Latin 'pinnaculum,' meaning 'a small wing or point.'"
+    },
+    {
+      "word": "Pragmatic",
+      "meaning": "Dealing with things sensibly and realistically, based on practical considerations.",
+      "sentence": "Her pragmatic approach to solving problems ensured quick and effective solutions.",
+      "formation": "From Greek 'pragmatikos,' meaning 'fit for action.'"
+    },
+    {
+      "word": "Recalcitrant",
+      "meaning": "Stubbornly resistant to authority or control.",
+      "sentence": "The recalcitrant student refused to follow the teacher’s instructions, causing disruption.",
+      "formation": "From Latin 'recalcitrare,' meaning 'to kick back or resist.'"
+    },
+    {
+      "word": "Reproach",
+      "meaning": "To express disapproval or disappointment, or a reason for such disapproval.",
+      "sentence": "His actions were met with reproach from his colleagues.",
+      "formation": "From Latin 'reprobare,' meaning 'to reject, disapprove of.'"
+    },
+    {
+      "word": "Serendipity",
+      "meaning": "The occurrence of events by chance in a happy or beneficial way.",
+      "sentence": "Finding an old friend in a distant city was pure serendipity.",
+      "formation": "Coined from the Persian fairy tale 'The Three Princes of Serendip,' where the characters were always making fortunate discoveries."
+    },
+    {
+      "word": "Spurious",
+      "meaning": "Not genuine, authentic, or true; false or misleading.",
+      "sentence": "The spurious claim about the product’s benefits was quickly debunked by experts.",
+      "formation": "From Latin 'spurius,' meaning 'illegitimate or false.'"
+    },
+    {
+      "word": "Ubiquitous",
+      "meaning": "Present or found everywhere.",
+      "sentence": "Smartphones have become ubiquitous in modern society.",
+      "formation": "From Latin 'ubiquitas,' meaning 'everywhere.'"
+    },
+    {
+      "word": "Voracious",
+      "meaning": "Having an insatiable appetite or eagerness for something.",
+      "sentence": "Her voracious reading habits led her to finish books in just a few days.",
+      "formation": "From Latin 'vorax,' meaning 'devouring.'"
+    },
+    {
+      "word": "Volatile",
+      "meaning": "Easily evaporated at normal temperatures; liable to change rapidly and unpredictably, especially for the worse.",
+      "sentence": "The volatile stock market caused many investors to panic.",
+      "formation": "From Latin 'volatilis,' meaning 'flying, fleeting.'"
+    },
+    {
+      "word": "Zenith",
+      "meaning": "The highest point or peak, particularly of success or achievement.",
+      "sentence": "She reached the zenith of her career when she was appointed CEO.",
+      "formation": "From Arabic 'samt,' meaning 'path,' via Old French 'cenith.'"
+    },
+    {
+      "word": "Benevolent",
+      "meaning": "Well-meaning and kindly.",
+      "sentence": "The benevolent philanthropist donated millions to charity.",
+      "formation": "From Latin 'benevolens,' meaning 'well-wishing' (from 'bene' meaning 'well' + 'volens' meaning 'wishing')."
+    },
+    {
+      "word": "Derogatory",
+      "meaning": "Showing a critical or disrespectful attitude.",
+      "sentence": "The derogatory comments made about her work were unwarranted.",
+      "formation": "From Latin 'derogare,' meaning 'to repeal or lessen.'"
+    },
+    {
+      "word": "Indolent",
+      "meaning": "Habitually lazy or avoiding work or activity.",
+      "sentence": "His indolent attitude prevented him from accomplishing much.",
+      "formation": "From Latin 'indolens,' meaning 'free from pain, not feeling.'"
+    },
+    {
+      "word": "Intrepid",
+      "meaning": "Fearless and adventurous, often in the face of danger.",
+      "sentence": "The intrepid explorer ventured into uncharted territories.",
+      "formation": "From Latin 'intrepidus,' meaning 'unafraid' (from 'in-' meaning 'not' + 'trepidus' meaning 'afraid')."
+    },
+    {
+      "word": "Prolific",
+      "meaning": "Producing large amounts of something, especially work or art.",
+      "sentence": "The prolific writer released three novels in a single year.",
+      "formation": "From Latin 'prolificus,' meaning 'bearing fruit.'"
+    },
+    {
+      "word": "Succinct",
+      "meaning": "Briefly and clearly expressed.",
+      "sentence": "His succinct summary of the meeting helped everyone stay on track.",
+      "formation": "From Latin 'succinctus,' meaning 'girded, brief' (from 'succingere' meaning 'to gird up')."
+    },
+    {
+      "word": "Trepidation",
+      "meaning": "A feeling of fear or anxiety about something that may happen.",
+      "sentence": "He approached the interview with trepidation, unsure of what to expect.",
+      "formation": "From Latin 'trepidatio,' meaning 'alarm, fear.'"
+    },
+    {
+      "word": "Vindictive",
+      "meaning": "Having or showing a strong desire for revenge.",
+      "sentence": "Her vindictive attitude towards her coworkers made the office environment tense.",
+      "formation": "From Latin 'vindicta', meaning 'revenge'."
+    },
+    {
+      "word": "Wane",
+      "meaning": "To decrease or diminish in size, amount, or intensity.",
+      "sentence": "As the days passed, his enthusiasm for the project began to wane.",
+      "formation": "From Old English 'wanian', meaning 'to decrease'."
+    },
+    {
+      "word": "Zealot",
+      "meaning": "A person who is fanatical and uncompromising in pursuit of their ideals.",
+      "sentence": "The zealot devoted every waking hour to advocating for the cause.",
+      "formation": "From Greek 'zēlotes', meaning 'a fanatical partisan'."
+    },
+    {
+      "word": "Antiquated",
+      "meaning": "Old-fashioned or outdated.",
+      "sentence": "The antiquated computer system was replaced with more modern technology.",
+      "formation": "From Latin 'antiquatus', meaning 'made old'."
+    },
+    {
+      "word": "Gregarious",
+      "meaning": "Fond of company; sociable.",
+      "sentence": "He was a gregarious person, always surrounded by friends and acquaintances.",
+      "formation": "From Latin 'gregarius', meaning 'belonging to a flock'."
+    },
+    {
+      "word": "Subtle",
+      "meaning": "Delicate or precise as to be difficult to analyze or describe.",
+      "sentence": "The subtle hint in her tone suggested there was more to the story.",
+      "formation": "From Latin 'subtilis', meaning 'fine, delicate'."
+    },
+    {
+      "word": "Lethargy",
+      "meaning": "A state of sluggishness, inactivity, and apathy.",
+      "sentence": "The heatwave caused a general lethargy among the workers, who lacked energy throughout the day.",
+      "formation": "From Greek 'lēthargia', meaning 'forgetfulness' or 'drowsiness'."
+    },
+    {
+      "word": "Raucous",
+      "meaning": "Making a disturbingly harsh or loud noise.",
+      "sentence": "The raucous cheers from the crowd echoed through the stadium.",
+      "formation": "From Latin 'raucus', meaning 'hoarse or harsh-sounding'."
+    },
+    {
+      "word": "Egregious",
+      "meaning": "Outstandingly bad; shocking.",
+      "sentence": "The egregious errors in the report led to a complete overhaul of the document.",
+      "formation": "From Latin 'egregius', meaning 'distinguished' (originally used in a positive sense)."
+    },
+    {
+      "word": "Disparate",
+      "meaning": "Essentially different in kind; not allowing comparison.",
+      "sentence": "The disparate opinions in the meeting made it difficult to reach a consensus.",
+      "formation": "From Latin 'disparatus', meaning 'separated'."
+    },
+    {
+      "word": "Prodigious",
+      "meaning": "Remarkably or impressively great in extent, size, or degree.",
+      "sentence": "The prodigious growth of the city has led to numerous infrastructural challenges.",
+      "formation": "From Latin 'prodigiosus', meaning 'marvelous, portentous'."
+    },
+    {
+      "word": "Laudable",
+      "meaning": "Deserving praise and commendation.",
+      "sentence": "Her laudable efforts in organizing the charity event earned her widespread recognition.",
+      "formation": "From Latin 'laudabilis', meaning 'praiseworthy'."
+    },
+    {
+      "word": "Finesse",
+      "meaning": "Refined delicacy and skill in handling a situation or task.",
+      "sentence": "She handled the delicate negotiation with great finesse, ensuring a positive outcome.",
+      "formation": "From French 'finesse', meaning 'delicacy, subtlety'."
+    },
+    {
+      "word": "Impasse",
+      "meaning": "A situation in which no progress is possible, typically due to disagreement.",
+      "sentence": "After hours of discussion, the negotiation reached an impasse with no resolution in sight.",
+      "formation": "From French 'impasse', meaning 'dead end'."
+    },
+    {
+      "word": "Loquacious",
+      "meaning": "Tending to talk a great deal; talkative.",
+      "sentence": "The loquacious professor kept the class engaged with her lively discussions.",
+      "formation": "From Latin 'loquax', meaning 'talkative'."
+    },
+    {
+      "word": "Ephemeral",
+      "meaning": "Lasting for a very short time.",
+      "sentence": "The beauty of the sunset was ephemeral, disappearing as quickly as it appeared.",
+      "formation": "From Greek 'ephemeros', meaning 'lasting only a day'."
+    },
+    {
+      "word": "Obscure",
+      "meaning": "Not discovered or known about; uncertain.",
+      "sentence": "The origins of the ancient manuscript remain obscure despite years of research.",
+      "formation": "From Latin 'obscurus', meaning 'dark, dim'."
+    },
+    {
+      "word": "Polymath",
+      "meaning": "A person of wide-ranging knowledge or learning.",
+      "sentence": "As a polymath, he was well-versed in both science and the arts.",
+      "formation": "From Greek 'poly' (many) and 'mathē' (learning)."
+    },
+    {
+      "word": "Venerable",
+      "meaning": "Given a great deal of respect due to age, dignity, or character.",
+      "sentence": "The venerable elder was respected by everyone in the community for his wisdom and experience.",
+      "formation": "From Latin 'venerabilis', meaning 'worthy of honor'."
+    },
+    {
+      "word": "Redundant",
+      "meaning": "Not necessary because it is more than enough; superfluous.",
+      "sentence": "The report contained redundant information, repeating facts that were already stated earlier.",
+      "formation": "From Latin 'redundare', meaning 'to overflow'."
+    },
+    {
+      "word": "Trepidation",
+      "meaning": "A feeling of fear or anxiety about something that may happen.",
+      "sentence": "There was a sense of trepidation among the students before their final exam.",
+      "formation": "From Latin 'trepidatio', meaning 'alarm, agitation'."
+    },
+    {
+      "word": "Fervent",
+      "meaning": "Having or displaying a passionate intensity.",
+      "sentence": "The fervent supporters cheered loudly for their team during the match.",
+      "formation": "From Latin 'fervens', meaning 'boiling'."
+    },
+    {
+      "word": "Virulent",
+      "meaning": "Extremely severe or harmful in its effects.",
+      "sentence": "The virulent virus spread quickly, causing widespread panic.",
+      "formation": "From Latin 'virulentus', meaning 'poisonous'."
+    },
+    {
+      "word": "Corroborate",
+      "meaning": "To confirm or give support to a statement, theory, or finding.",
+      "sentence": "The witness's testimony helped corroborate the defendant's alibi.",
+      "formation": "From Latin 'corroborare', meaning 'to strengthen'."
+    }
+  ]
+  

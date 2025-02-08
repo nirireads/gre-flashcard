@@ -38,9 +38,9 @@ const App = () => {
         <div className="pedagogy text-[1rem] lg:text-2x1 font-bold italic text-blue-900 mb-4">
           {word.meaning}
         </div>
-        <div className="meaning text-[1rem] lg:text-lg text-gray-700 mb-3 text-center">
+        {/* <div className="meaning text-[1rem] lg:text-lg text-gray-700 mb-3 text-center">
           {word.formation}
-        </div>
+        </div> */}
         <div className="sentence text-[1rem] lg:text-md text-pink-600">
           "{word.sentence}"
         </div>
