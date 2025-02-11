@@ -228,5 +228,955 @@
     "word": "Meager",
     "meaning": "very low, thin",
     "sentence": "The farmers struggled to survive on their meager earnings."
+  },
+  {
+    "word": "Feasible",
+    "meaning": "achievable",
+    "sentence": "With the right resources, the project is completely feasible."
+  },
+  {
+    "word": "Enhance",
+    "meaning": "improve",
+    "sentence": "Regular exercise can enhance your overall health."
+  },
+  {
+    "word": "Devised",
+    "meaning": "created",
+    "sentence": "The scientist devised a new method for analyzing data."
+  },
+  {
+    "word": "Integral",
+    "meaning": "essential",
+    "sentence": "Trust is an integral part of any strong relationship."
+  },
+  {
+    "word": "Arduous",
+    "meaning": "difficult",
+    "sentence": "Climbing the mountain was an arduous task."
+  },
+  {
+    "word": "Ensuing",
+    "meaning": "subsequent",
+    "sentence": "In the ensuing months, the company expanded rapidly."
+  },
+  {
+    "word": "Unprecedented",
+    "meaning": "unlike anything in the past",
+    "sentence": "The recent technological advancements are unprecedented."
+  },
+  {
+    "word": "Virtually",
+    "meaning": "almost",
+    "sentence": "The stadium was virtually empty after the game ended."
+  },
+  {
+    "word": "Inevitable",
+    "meaning": "unavoidable",
+    "sentence": "Aging is an inevitable part of life."
+  },
+  {
+    "word": "Specific",
+    "meaning": "particular",
+    "sentence": "The teacher gave specific instructions for the assignment."
+  },
+  {
+    "word": "Guarantee",
+    "meaning": "ensure",
+    "sentence": "A balanced diet can help guarantee good health."
+  },
+  {
+    "word": "Pales",
+    "meaning": "loses significance",
+    "sentence": "Her success pales in comparison to her hard work."
+  },
+  {
+    "word": "Adjacent",
+    "meaning": "neighboring",
+    "sentence": "The hotel is adjacent to the shopping mall."
+  },
+  {
+    "word": "Vital",
+    "meaning": "essential",
+    "sentence": "Water is vital for survival."
+  },
+  {
+    "word": "Context",
+    "meaning": "environment",
+    "sentence": "Understanding the context of a situation is important."
+  },
+  {
+    "word": "Core",
+    "meaning": "center",
+    "sentence": "The core of the Earth is composed of molten metal."
+  },
+  {
+    "word": "Depicts",
+    "meaning": "portrays",
+    "sentence": "The painting depicts a peaceful countryside scene."
+  },
+  {
+    "word": "Perplexed",
+    "meaning": "puzzled",
+    "sentence": "She was perplexed by the complex math problem."
+  },
+  {
+    "word": "Preposterous",
+    "meaning": "unbelievable",
+    "sentence": "The idea that he could finish the project in one day was preposterous."
+  },
+  {
+    "word": "Accumulating",
+    "meaning": "increasing",
+    "sentence": "Snow was accumulating on the roads due to the storm."
+  },
+  {
+    "word": "Impose on",
+    "meaning": "place on",
+    "sentence": "The government decided to impose a new tax on luxury goods."
+  },
+  {
+    "word": "Artificial",
+    "meaning": "not real",
+    "sentence": "The restaurant used artificial flowers for decoration."
+  },
+  {
+    "word": "Prediction",
+    "meaning": "expectation",
+    "sentence": "His prediction about the weather turned out to be accurate."
+  },
+  {
+    "word": "Pinpoint",
+    "meaning": "locate exactly",
+    "sentence": "The scientist was able to pinpoint the source of the earthquake."
+  },
+  {
+    "word": "Derive",
+    "meaning": "gain",
+    "sentence": "She derives great satisfaction from helping others."
+  },
+  {
+    "word": "Inhibits",
+    "meaning": "restricts",
+    "sentence": "Caffeine inhibits the body's ability to absorb certain minerals."
+  },
+  {
+    "word": "In the same breath",
+    "meaning": "immediately",
+    "sentence": "She praised his work and, in the same breath, criticized his attitude."
+  },
+  {
+    "word": "Indefinite period",
+    "meaning": "whose end has not been determined",
+    "sentence": "The museum will be closed for an indefinite period due to renovations."
+  },
+  {
+    "word": "Rebound",
+    "meaning": "recovery",
+    "sentence": "The economy is expected to rebound after the crisis."
+  },
+  {
+    "word": "Marked",
+    "meaning": "considerable",
+    "sentence": "There was a marked improvement in his performance."
+  },
+  {
+    "word": "Principal",
+    "meaning": "major",
+    "sentence": "Water is the principal component of most living organisms."
+  },
+  {
+    "word": "Trappings",
+    "meaning": "decorations",
+    "sentence": "The royal palace was adorned with the trappings of luxury."
+  },
+  {
+    "word": "Accumulate",
+    "meaning": "build up",
+    "sentence": "Dust tends to accumulate in corners over time."
+  },
+  {
+    "word": "Adjacent",
+    "meaning": "nearby",
+    "sentence": "The coffee shop is adjacent to the bookstore."
+  },
+  {
+    "word": "Sloping",
+    "meaning": "inclining",
+    "sentence": "The house was built on sloping land, giving it a great view."
+  },
+  {
+    "word": "Foul",
+    "meaning": "pollute",
+    "sentence": "Factories that foul the air should be heavily regulated."
+  },
+  {
+    "word": "Assisted in",
+    "meaning": "helped with",
+    "sentence": "She assisted in organizing the charity event."
+  },
+  {
+    "word": "Depicted",
+    "meaning": "pictured",
+    "sentence": "The painting depicted a peaceful countryside."
+  },
+  {
+    "word": "Criteria",
+    "meaning": "standards",
+    "sentence": "Applicants must meet certain criteria to be considered for the job."
+  },
+  {
+    "word": "Regarded",
+    "meaning": "considered",
+    "sentence": "She is highly regarded as an expert in her field."
+  },
+  {
+    "word": "Paradoxes",
+    "meaning": "contradictions",
+    "sentence": "Life is full of paradoxes that challenge our understanding."
+  },
+  {
+    "word": "Overshadowed",
+    "meaning": "distracted from",
+    "sentence": "Her accomplishments were overshadowed by the controversy."
+  },
+  {
+    "word": "Neglected",
+    "meaning": "failed",
+    "sentence": "The garden was neglected for years and became overgrown."
+  },
+  {
+    "word": "Drastically",
+    "meaning": "severely",
+    "sentence": "The new law drastically changed the housing market."
+  },
+  {
+    "word": "Dwellers",
+    "meaning": "inhabitants",
+    "sentence": "City dwellers often experience higher levels of pollution."
+  },
+  {
+    "word": "Fractures",
+    "meaning": "cracks",
+    "sentence": "Tiny fractures in the wall weakened the entire structure."
+  },
+  {
+    "word": "Immobile",
+    "meaning": "motionless",
+    "sentence": "After the accident, he remained immobile for several minutes."
+  },
+  {
+    "word": "Exhibit",
+    "meaning": "show",
+    "sentence": "The museum will exhibit rare artifacts from ancient Egypt."
+  },
+  {
+    "word": "Facilitates",
+    "meaning": "makes easier",
+    "sentence": "Technology facilitates communication between people across the world."
+  },
+  {
+    "word": "Suspended",
+    "meaning": "hung",
+    "sentence": "A chandelier was suspended from the high ceiling."
+  },
+  {
+    "word": "Afford",
+    "meaning": "offer",
+    "sentence": "The new policy will afford students more opportunities for research."
+  },
+  {
+    "word": "Overwhelming",
+    "meaning": "powerful",
+    "sentence": "The overwhelming support from the audience moved the speaker to tears."
+  },
+  {
+    "word": "Implements",
+    "meaning": "tools",
+    "sentence": "Farmers use various implements to prepare the soil for planting."
+  },
+  {
+    "word": "Undisputed",
+    "meaning": "acknowledged",
+    "sentence": "Einstein's theory of relativity remains an undisputed breakthrough in physics."
+  },
+  {
+    "word": "Significant",
+    "meaning": "important",
+    "sentence": "The new discovery is significant in the field of medicine."
+  },
+  {
+    "word": "Relatively",
+    "meaning": "comparatively",
+    "sentence": "This smartphone is relatively cheaper than the latest model."
+  },
+  {
+    "word": "Diversification",
+    "meaning": "emergence of many varieties",
+    "sentence": "The diversification of crops helped the farmers mitigate risks."
+  },
+  {
+    "word": "Promote",
+    "meaning": "encourage",
+    "sentence": "The government launched a campaign to promote healthy eating habits."
+  },
+  {
+    "word": "Complex",
+    "meaning": "elaborate",
+    "sentence": "The engineer designed a complex system to improve efficiency."
+  },
+  {
+    "word": "Endowing",
+    "meaning": "providing",
+    "sentence": "The foundation is endowing scholarships to talented students."
+  },
+  {
+    "word": "Size up",
+    "meaning": "evaluate",
+    "sentence": "Before making a decision, he took a moment to size up the situation."
+  },
+  {
+    "word": "Deviate",
+    "meaning": "depart",
+    "sentence": "The scientist warned not to deviate from the standard procedure."
+  },
+  {
+    "word": "Consequently",
+    "meaning": "therefore",
+    "sentence": "He missed the deadline; consequently, he lost the contract."
+  },
+  {
+    "word": "Persistent",
+    "meaning": "enduring",
+    "sentence": "Her persistent efforts finally led to success."
+  },
+  {
+    "word": "Duration",
+    "meaning": "length",
+    "sentence": "The duration of the movie is approximately two hours."
+  },
+  {
+    "word": "Sustained",
+    "meaning": "uninterrupted",
+    "sentence": "She maintained sustained focus throughout the project."
+  },
+  {
+    "word": "Uniformly",
+    "meaning": "consistently",
+    "sentence": "The paint was applied uniformly across the surface."
+  },
+  {
+    "word": "Potent",
+    "meaning": "powerful",
+    "sentence": "Garlic is known for its potent antibacterial properties."
+  },
+  {
+    "word": "Quantifiable",
+    "meaning": "measurable",
+    "sentence": "The impact of the new policy is easily quantifiable through data analysis."
+  },
+  {
+    "word": "Exploited",
+    "meaning": "utilized",
+    "sentence": "The company exploited the new technology to improve its production process."
+  },
+  {
+    "word": "Vastly",
+    "meaning": "greatly",
+    "sentence": "The new model vastly improved the efficiency of the system."
+  },
+  {
+    "word": "Grew accustomed to",
+    "meaning": "became used to",
+    "sentence": "After a few weeks, he grew accustomed to the fast-paced work environment."
+  },
+  {
+    "word": "Retained",
+    "meaning": "maintained",
+    "sentence": "Despite the challenges, she retained her optimism."
+  },
+  {
+    "word": "Rudimentary",
+    "meaning": "basic",
+    "sentence": "The rudimentary tools were enough to get the job done in the early stages."
+  },
+  {
+    "word": "Meticulously",
+    "meaning": "carefully",
+    "sentence": "She meticulously planned every detail of the event."
+  },
+  {
+    "word": "Endured",
+    "meaning": "survived",
+    "sentence": "He endured through many hardships to reach his goals."
+  },
+  {
+    "word": "Virtually",
+    "meaning": "nearly",
+    "sentence": "The project is virtually complete, with only minor details left."
+  },
+  {
+    "word": "Plausible",
+    "meaning": "believable",
+    "sentence": "The scientist presented a plausible explanation for the phenomenon."
+  },
+  {
+    "word": "Phenomenon",
+    "meaning": "occurrence",
+    "sentence": "The aurora borealis is a breathtaking natural phenomenon."
+  },
+  {
+    "word": "Critically",
+    "meaning": "fundamentally",
+    "sentence": "The changes are critically important for the success of the project."
+  },
+  {
+    "word": "Perspective",
+    "meaning": "viewpoint",
+    "sentence": "From her perspective, the decision seemed like the best option."
+  },
+  {
+    "word": "Verify",
+    "meaning": "establish the truth of",
+    "sentence": "The scientist had to verify the accuracy of the data before publishing."
+  },
+  {
+    "word": "Adept",
+    "meaning": "skillful",
+    "sentence": "He is adept at solving complex mathematical problems."
+  },
+  {
+    "word": "Attributes",
+    "meaning": "characteristics",
+    "sentence": "Honesty and integrity are important attributes for a leader."
+  },
+  {
+    "word": "Credible",
+    "meaning": "believable",
+    "sentence": "The witness gave a credible account of the events."
+  },
+  {
+    "word": "Paradoxically",
+    "meaning": "surprisingly",
+    "sentence": "Paradoxically, the new policy caused more problems than it solved."
+  },
+  {
+    "word": "Prolonged",
+    "meaning": "extended",
+    "sentence": "The prolonged drought had serious effects on the local agriculture."
+  },
+  {
+    "word": "Exhaust",
+    "meaning": "used up",
+    "sentence": "The team exhausted all their resources in the final stages of the project."
+  },
+  {
+    "word": "Prestige",
+    "meaning": "status",
+    "sentence": "The university's prestige attracts students from all over the world."
+  },
+  {
+    "word": "Profound",
+    "meaning": "far-reaching",
+    "sentence": "The invention of the internet had a profound impact on society."
+  },
+  {
+    "word": "Striking",
+    "meaning": "noticeable",
+    "sentence": "Her striking beauty caught everyone's attention at the event."
+  },
+  {
+    "word": "Exploit",
+    "meaning": "make use of, use to advantage",
+    "sentence": "The company plans to exploit the new marketing strategy to boost sales."
+  },
+  {
+    "word": "Objective",
+    "meaning": "purpose",
+    "sentence": "The objective of the project is to improve water conservation methods."
+  },
+  {
+    "word": "Scores",
+    "meaning": "large numbers",
+    "sentence": "Scores of people attended the music festival despite the rain."
+  },
+  {
+    "word": "Turbulent",
+    "meaning": "violent",
+    "sentence": "The airplane experienced turbulent weather during the flight."
+  },
+  {
+    "word": "Obsession with",
+    "meaning": "fixation on",
+    "sentence": "His obsession with perfection made him spend hours on minor details."
+  },
+  {
+    "word": "Fostered",
+    "meaning": "encouraged",
+    "sentence": "The teacher fostered a love for reading among her students."
+  },
+  {
+    "word": "Spheres",
+    "meaning": "areas",
+    "sentence": "She has expertise in multiple spheres of science and technology."
+  },
+  {
+    "word": "Diffused",
+    "meaning": "spread",
+    "sentence": "The scent of fresh flowers diffused throughout the room."
+  },
+  {
+    "word": "Profound",
+    "meaning": "far-reaching",
+    "sentence": "The scientist made a profound discovery in genetic research."
+  },
+  {
+    "word": "Ritual",
+    "meaning": "ceremonial",
+    "sentence": "The wedding ceremony followed an ancient ritual passed down for generations."
+  },
+  {
+    "word": "Fleeing",
+    "meaning": "running away from",
+    "sentence": "The villagers were fleeing from the approaching storm."
+  },
+  {
+    "word": "Unique among",
+    "meaning": "different from all others",
+    "sentence": "This species is unique among birds due to its vibrant colors."
+  },
+  {
+    "word": "Feat",
+    "meaning": "remarkable achievement",
+    "sentence": "Climbing Mount Everest is a remarkable feat of endurance."
+  },
+  {
+    "word": "Bulk",
+    "meaning": "mass",
+    "sentence": "The bulk of the cargo was transported by ship."
+  },
+  {
+    "word": "Courses through",
+    "meaning": "runs through",
+    "sentence": "A strong sense of adventure courses through his veins."
+  },
+  {
+    "word": "Extended",
+    "meaning": "long",
+    "sentence": "He went on an extended vacation to explore different cultures."
+  },
+  {
+    "word": "Account for",
+    "meaning": "explain",
+    "sentence": "The missing funds account for the financial discrepancies in the report."
+  },
+  {
+    "word": "Intense",
+    "meaning": "extreme",
+    "sentence": "The summer heat was so intense that people stayed indoors."
+  },
+  {
+    "word": "Interlocked",
+    "meaning": "linked",
+    "sentence": "The gears in the machine were tightly interlocked."
+  },
+  {
+    "word": "Match",
+    "meaning": "equal",
+    "sentence": "Her intelligence and skills match those of the best in her field."
+  },
+  {
+    "word": "Transform",
+    "meaning": "change",
+    "sentence": "Regular exercise can transform both your body and mind."
+  },
+  {
+    "word": "Deceiving",
+    "meaning": "misleading",
+    "sentence": "The magician's tricks were deceiving to the audience."
+  },
+  {
+    "word": "Static",
+    "meaning": "unchanging",
+    "sentence": "The company's policies have remained static for decades."
+  },
+  {
+    "word": "Massive",
+    "meaning": "very large",
+    "sentence": "The earthquake caused massive destruction to the city."
+  },
+  {
+    "word": "Pinpoint",
+    "meaning": "identify precisely",
+    "sentence": "She was able to pinpoint the exact location of the missing key."
+  },
+  {
+    "word": "Ingenuity",
+    "meaning": "cleverness",
+    "sentence": "His ingenuity in solving the problem impressed everyone."
+  },
+  {
+    "word": "Predominant",
+    "meaning": "most aggressive",
+    "sentence": "The predominant species in the region is the red fox."
+  },
+  {
+    "word": "Cope",
+    "meaning": "adapt",
+    "sentence": "She learned how to cope with the challenges of her new job."
+  },
+  {
+    "word": "Fluctuations",
+    "meaning": "variations",
+    "sentence": "The stock market experienced significant fluctuations last week."
+  },
+  {
+    "word": "Bombard",
+    "meaning": "strike",
+    "sentence": "The enemy troops bombarded the fortress with heavy artillery."
+  },
+  {
+    "word": "Disruption",
+    "meaning": "disturbance",
+    "sentence": "The power outage caused a major disruption to the event."
+  },
+  {
+    "word": "Merge",
+    "meaning": "combine",
+    "sentence": "The two companies decided to merge to increase their market share."
+  },
+  {
+    "word": "Relics",
+    "meaning": "remains",
+    "sentence": "Archaeologists discovered ancient relics from a long-lost civilization."
+  },
+  {
+    "word": "Miniature",
+    "meaning": "small",
+    "sentence": "The artist created a miniature version of the famous sculpture."
+  },
+  {
+    "word": "Hints",
+    "meaning": "clues",
+    "sentence": "The detective followed the hints left by the thief to solve the case."
+  },
+  {
+    "word": "Repudiate",
+    "meaning": "reject",
+    "sentence": "The politician was quick to repudiate the allegations made against him."
+  },
+  {
+    "word": "Consensus",
+    "meaning": "agreement",
+    "sentence": "After hours of discussion, the team reached a consensus on the best approach."
+  },
+  {
+    "word": "Ethic",
+    "meaning": "set of moral principles",
+    "sentence": "She was known for her strong work ethic and dedication to excellence."
+  },
+  {
+    "word": "Intrinsically",
+    "meaning": "fundamentally",
+    "sentence": "The two cultures are intrinsically different in their values and traditions."
+  },
+  {
+    "word": "Interplay",
+    "meaning": "interaction",
+    "sentence": "The interplay between the two teams made the match more exciting."
+  },
+  {
+    "word": "Abundance",
+    "meaning": "plenty",
+    "sentence": "The region is known for its abundance of natural resources."
+  },
+  {
+    "word": "Analogous to",
+    "meaning": "similar to",
+    "sentence": "The structure of the atom is analogous to the solar system."
+  },
+  {
+    "word": "Postulated",
+    "meaning": "hypothesized",
+    "sentence": "The scientist postulated that the new species was related to ancient fossils."
+  },
+  {
+    "word": "Markedly",
+    "meaning": "noticeably",
+    "sentence": "The quality of the product improved markedly after the redesign."
+  },
+  {
+    "word": "Meager",
+    "meaning": "very low, thin",
+    "sentence": "The farmers had a meager harvest due to the drought."
+  },
+  {
+    "word": "Primordial",
+    "meaning": "present at the very beginning of our solar system's formation",
+    "sentence": "Primordial gases and dust formed the earliest building blocks of the planets."
+  },
+  {
+    "word": "Eventually",
+    "meaning": "over time",
+    "sentence": "With consistent effort, she eventually achieved her career goals."
+  },
+  {
+    "word": "Impetus",
+    "meaning": "stimulus",
+    "sentence": "The new government policy provided an impetus for economic growth."
+  },
+  {
+    "word": "Dramatically",
+    "meaning": "greatly",
+    "sentence": "The population of the city has increased dramatically over the past decade."
+  },
+  {
+    "word": "Refined",
+    "meaning": "improved",
+    "sentence": "The scientist refined his research methods to obtain more accurate results."
+  },
+  {
+    "word": "Norms",
+    "meaning": "rules",
+    "sentence": "Social norms often dictate how people behave in different cultures."
+  },
+  {
+    "word": "Conspicuous",
+    "meaning": "noticeable",
+    "sentence": "Her red dress was conspicuous in the crowd of black suits."
+  },
+  {
+    "word": "Signal",
+    "meaning": "communicate",
+    "sentence": "He raised his hand to signal the waiter for the bill."
+  },
+  {
+    "word": "Inflating",
+    "meaning": "enlarging",
+    "sentence": "The company was accused of inflating its sales figures."
+  },
+  {
+    "word": "Impediment",
+    "meaning": "obstruction",
+    "sentence": "A lack of funding was a major impediment to the project's success."
+  },
+  {
+    "word": "Exploit",
+    "meaning": "make use of, use to advantage",
+    "sentence": "The company exploited new technology to improve efficiency."
+  },
+  {
+    "word": "Derives",
+    "meaning": "obtains",
+    "sentence": "The drug derives its potency from natural plant extracts."
+  },
+  {
+    "word": "Devastated",
+    "meaning": "destroyed",
+    "sentence": "The hurricane devastated the coastal towns, leaving thousands homeless."
+  },
+  {
+    "word": "Inadvertently",
+    "meaning": "unintentionally",
+    "sentence": "She inadvertently deleted the important document from her computer."
+  },
+  {
+    "word": "Highlights",
+    "meaning": "emphasizes",
+    "sentence": "The report highlights the need for better education policies."
+  },
+  {
+    "word": "Exceptional",
+    "meaning": "extraordinary",
+    "sentence": "His exceptional talent in music won him a prestigious award."
+  },
+  {
+    "word": "Abolished",
+    "meaning": "ended",
+    "sentence": "Slavery was abolished in many countries in the 19th century."
+  },
+  {
+    "word": "Progressive",
+    "meaning": "increase",
+    "sentence": "The disease showed a progressive decline in the patient’s health."
+  },
+  {
+    "word": "Flaw",
+    "meaning": "fault",
+    "sentence": "A minor flaw in the design caused the entire structure to collapse."
+  },
+  {
+    "word": "Triggered",
+    "meaning": "caused",
+    "sentence": "The loud noise triggered the car alarm."
+  },
+  {
+    "word": "Periodically",
+    "meaning": "regularly",
+    "sentence": "He visits his hometown periodically to see his family."
+  },
+  {
+    "word": "Empirical",
+    "meaning": "based on observation",
+    "sentence": "His conclusions were drawn from empirical evidence rather than theory."
+  },
+  {
+    "word": "Tremendous",
+    "meaning": "huge",
+    "sentence": "The new discovery had a tremendous impact on medical research."
+  },
+  {
+    "word": "Acquire",
+    "meaning": "obtain",
+    "sentence": "He worked hard to acquire the necessary skills for the job."
+  },
+  {
+    "word": "Illuminates",
+    "meaning": "lights",
+    "sentence": "The streetlamp illuminates the road at night."
+  },
+  {
+    "word": "Initiated",
+    "meaning": "started",
+    "sentence": "The company initiated a new training program for employees."
+  },
+  {
+    "word": "Suppress",
+    "meaning": "stop by force",
+    "sentence": "The government took measures to suppress the uprising."
+  },
+  {
+    "word": "Friction",
+    "meaning": "conflict",
+    "sentence": "There was friction between the two departments over the new policy."
+  },
+  {
+    "word": "Entitled to",
+    "meaning": "given the right to",
+    "sentence": "Employees are entitled to a week of paid vacation each year."
+  },
+  {
+    "word": "Circumstances",
+    "meaning": "conditions",
+    "sentence": "Under the current circumstances, it would be impossible to proceed with the plan."
+  },
+  {
+    "word": "Substantiated",
+    "meaning": "confirmed",
+    "sentence": "The allegations were substantiated by a thorough investigation."
+  },
+  {
+    "word": "Trend",
+    "meaning": "tendency",
+    "sentence": "There is a growing trend of people choosing electric cars over gasoline-powered ones."
+  },
+  {
+    "word": "Likewise",
+    "meaning": "similarly",
+    "sentence": "She has always been kind to me; likewise, I try to return the favor."
+  },
+  {
+    "word": "Legitimately",
+    "meaning": "officially",
+    "sentence": "He was legitimately elected as the president of the association."
+  },
+  {
+    "word": "Initiated",
+    "meaning": "started",
+    "sentence": "The project was initiated to improve community outreach."
+  },
+  {
+    "word": "Accumulations",
+    "meaning": "deposits",
+    "sentence": "Large accumulations of snow were found on the mountain pass after the storm."
+  },
+  {
+    "word": "Heterogeneous",
+    "meaning": "varied",
+    "sentence": "The group was heterogeneous, with members from different cultural backgrounds."
+  },
+  {
+    "word": "Enjoy",
+    "meaning": "experience",
+    "sentence": "She enjoys hiking in the mountains during the summer."
+  },
+  {
+    "word": "Reveal",
+    "meaning": "show",
+    "sentence": "The investigation revealed important details about the company's financial issues."
+  },
+  {
+    "word": "Fringes",
+    "meaning": "borders",
+    "sentence": "The city expanded beyond its original fringes to accommodate more people."
+  },
+  {
+    "word": "Proliferation",
+    "meaning": "growth",
+    "sentence": "The proliferation of smartphones has transformed how we communicate."
+  },
+  {
+    "word": "Superseded",
+    "meaning": "replaced",
+    "sentence": "The old software was superseded by a more advanced version."
+  },
+  {
+    "word": "Diverted",
+    "meaning": "shifted",
+    "sentence": "Traffic was diverted due to road construction on the main highway."
+  },
+  {
+    "word": "Momentous",
+    "meaning": "very important",
+    "sentence": "The signing of the peace treaty was a momentous event in history."
+  },
+  {
+    "word": "Remarkable change",
+    "meaning": "dramatic increase",
+    "sentence": "There was a remarkable change in the market after the new policy was announced."
+  },
+  {
+    "word": "Exploited",
+    "meaning": "utilized",
+    "sentence": "The company exploited new technologies to streamline production."
+  },
+  {
+    "word": "Cramped",
+    "meaning": "confined",
+    "sentence": "The office was cramped, with desks placed closely together."
+  },
+  {
+    "word": "Shifts",
+    "meaning": "changes",
+    "sentence": "The company experienced significant shifts in its leadership team over the past year."
+  },
+  {
+    "word": "Abruptly",
+    "meaning": "suddenly",
+    "sentence": "The meeting was abruptly canceled due to an urgent issue."
+  },
+  {
+    "word": "Agencies",
+    "meaning": "forces",
+    "sentence": "Various agencies worked together to address the crisis."
+  },
+  {
+    "word": "Terrestrial",
+    "meaning": "land",
+    "sentence": "The study focused on terrestrial ecosystems rather than aquatic ones."
+  },
+  {
+    "word": "Enhance",
+    "meaning": "increase",
+    "sentence": "The new software will enhance the overall performance of the system."
+  },
+  {
+    "word": "Precise",
+    "meaning": "exact",
+    "sentence": "The scientist made a precise measurement of the sample's temperature."
+  },
+  {
+    "word": "Prospect",
+    "meaning": "possibility",
+    "sentence": "The prospect of a new job opportunity excited her after years of hard work."
   }
 ]
