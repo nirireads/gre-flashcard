@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FlashcardArray } from "react-quizlet-flashcard";
-import vocabulary from "./vocabulary.json";
+import vocabulary from "./assets/JamboreeVocab";
 import { shuffleArray } from "./utils";
 
 const App = () => {
